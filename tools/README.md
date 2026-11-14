@@ -28,3 +28,14 @@ Copy to `videos/YYYY-MM-DD_<slug>.mp4`, commit, push, then use
 `https://raw.githubusercontent.com/jaxtechnology-alt/vicecitydrops-media/main/videos/<file>.mp4` as Metricool media.
 
 Example: videos/2026-11-14_people-on-19-november.mp4 (Pixabay traffic/crowd/office -> trailer shots).
+
+## 5. Keep footage fresh (free) — do this when a run has time, at least twice a week
+Clips from only one trailer get repetitive. Import other OFFICIAL Rockstar trailers with `vidiq_video_upload`
+(url = YouTube link; free, 0 credits; poll vidiq_job_poll): Trailer 2 https://www.youtube.com/watch?v=VQRLujxTm3c ,
+Trailer 1 https://www.youtube.com/watch?v=QdBZY2fkU-0 . Download the returned videoUrl, normalise, run scene
+detection (`ffmpeg -i clean.mp4 -vf "select='gt(scene,0.25)',showinfo" -an -f null - 2>&1 | grep -o "pts_time:[0-9.]*"`),
+look at a frame from the middle of each shot, and ADD the uploadId plus the safe shot windows (no weapons, no story
+spoilers) to section 2 above, then commit. Also save the uploadIds here so later runs can refresh the URLs.
+
+## 6. Strategy
+Read STRATEGY.md at the start of every run; the weekly review task keeps it up to date.
