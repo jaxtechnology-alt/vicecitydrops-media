@@ -19,6 +19,7 @@ def call(tok, method, path, params=None, body=None):
     return json.load(urllib.request.urlopen(req))
 
 def fetch(tok):
+    os.makedirs("comments", exist_ok=True)
     r = call(tok, "GET", "commentThreads", {"part": "snippet,replies", "allThreadsRelatedToChannelId": CHANNEL,
                                              "maxResults": 100, "order": "time"})
     out = []
@@ -32,6 +33,7 @@ def fetch(tok):
     print(len(out), "threads")
 
 def post(tok):
+    os.makedirs("replies", exist_ok=True)
     done = json.load(open("replies/done.json")) if os.path.exists("replies/done.json") else []
     seen = {d["parentId"] for d in done}
     for f in sorted(glob.glob("replies/queue*.json")):
