@@ -1,0 +1,39 @@
+name: fetch-footage
+# Searches Pixabay (free, royalty-free) for stock clips and saves them into footage/.
+# Trigger: push a file requests/<name>.txt with one search term per line.
+# The API key lives only in the repo secret PIXABAY_API_KEY.
+on:
+  push:
+    paths: ['requests/*.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download clips
+        env:
+          KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: |
+          set -e
+          if [ -z "$KEY" ]; then echo "PIXABAY_API_KEY secret missing"; exit 1; fi
+          mkdir -p footage
+          shopt -s nullglob
+          for f in requests/*.txt; do
+            while IFS= read -r q; do
+              [ -z "$q" ] && continue
+              slug=$(echo "$q" | tr 'A-Z ' 'a-z_' | tr -cd 'a-z0-9_')
+              curl -s "https://pixabay.com/api/videos/?key=$KEY&q=$(echo "$q" | sed 's/ /+/g')&per_page=5&safesearch=true" > /tmp/r.json
+              python3 scripts/pixabay_save.py "$slug"
+            done < "$f"
+            git rm -q "$f"
+          done
+      - name: Commit footage
+        run: |
+          git config user.name "Vice City Drops bot"
+          git config user.email "jaxtechnology-alt@users.noreply.github.com"
+          git add -A
+          git commit -m "Add Pixabay footage" || echo "nothing new"
+          git push
