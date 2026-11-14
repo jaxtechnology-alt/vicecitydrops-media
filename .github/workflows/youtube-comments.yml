@@ -1,0 +1,38 @@
+name: youtube-comments
+# fetch: every 3 hours, saves recent YouTube comments to comments/youtube.json
+# post: when replies/queue*.json is pushed, posts those replies once each (log in replies/done.json)
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  push:
+    paths: ['replies/queue*.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: youtube-comments
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post queued replies
+        if: github.event_name == 'push'
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python3 scripts/yt_comments.py post
+      - name: Fetch comments
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python3 scripts/yt_comments.py fetch
+      - name: Commit
+        run: |
+          git config user.name "Vice City Drops bot"
+          git config user.email "jaxtechnology-alt@users.noreply.github.com"
+          git add -A
+          git commit -m "YouTube comments sync" || echo "nothing new"
+          git pull --rebase -q || true
+          git push
