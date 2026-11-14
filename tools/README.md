@@ -39,3 +39,11 @@ spoilers) to section 2 above, then commit. Also save the uploadIds here so later
 
 ## 6. Strategy
 Read STRATEGY.md at the start of every run; the weekly review task keeps it up to date.
+
+## 7. YouTube comment replies (free, YouTube Data API via GitHub Actions)
+The `youtube-comments` workflow refreshes `comments/youtube.json` every 3 hours (fields: threadId, videoId, author,
+text, published, likes, weReplied). To reply: `git pull`, pick threads with weReplied=false that are genuine,
+write `replies/queue-YYYYMMDD-HHMM.json` = [{"parentId": "<threadId>", "text": "<reply>"}], commit, push.
+The workflow posts each once and logs results in `replies/done.json` (never re-queue a parentId listed there).
+Quota: ~198 replies/day max; keep it under 30 per run. To refresh comments immediately, push any queue file
+(even `[]`). Secrets YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN live only in GitHub.
