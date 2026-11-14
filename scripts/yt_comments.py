@@ -48,5 +48,7 @@ def post(tok):
     json.dump(done, open("replies/done.json", "w"), indent=1, ensure_ascii=False)
 
 if __name__ == "__main__":
+    if not all(os.environ.get(k) for k in ("YT_CLIENT_ID","YT_CLIENT_SECRET","YT_REFRESH_TOKEN")):
+        print("YouTube secrets not set yet; skipping"); sys.exit(0)
     t = token()
     {"fetch": fetch, "post": post}[sys.argv[1]](t)
