@@ -47,3 +47,10 @@ write `replies/queue-YYYYMMDD-HHMM.json` = [{"parentId": "<threadId>", "text": "
 The workflow posts each once and logs results in `replies/done.json` (never re-queue a parentId listed there).
 Quota: ~198 replies/day max; keep it under 30 per run. To refresh comments immediately, push any queue file
 (even `[]`). Secrets YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN live only in GitHub.
+
+## 8. Still manual / next free automations (weekly review 15 Nov 2026)
+- vidIQ credits are 0 until 14 Dec; vidiq_video_upload (0 credits) still works, so footage rotation (section 5) stays free.
+- Instagram + Facebook comment replies: free via Meta Graph API in a GitHub Action (same pattern as section 7) once a
+  Page access token is stored as a GitHub secret. Needs Rudi to create a free Meta developer app; not done yet.
+- TikTok comment replies: no free official API for this; leave manual.
+- Own gameplay clips after launch would be the biggest originality win (Rudi recording on console); upload to footage/rudi/.
