@@ -1,11 +1,12 @@
 # Ideas — Sun 15 Nov 2026 (run started late, ~09:10 SAST; use for 15-16 Nov)
-vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked this run.
+vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Re-checked news at 09:13 (test run).
 
 ## News today
 - VERIFIED: GTA 6 has gone gold; Take-Two CEO Strauss Zelnick says no further delays, launch 19 Nov 2026 (PS5, Xbox Series X|S). [Push Square, 10 Nov](https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold)
 - VERIFIED: PS Store preload opened 10 Nov (same source). Size widely reported as ~212 GB (not from Rockstar; say "about 212 GB").
 - VERIFIED: SA prices R1,499 Standard / R1,899 Ultimate. [Hypertext](https://htxt.co.za/2026/06/south-africa-gta-6-pricing-is-locked-in-r1499-for-standard-r1899-for-ultimate/), [Stuff](https://stuff.co.za/2026/06/25/grand-theft-auto-vi-starts-at-r1500-in-sa/)
 - VERIFIED (headline only): CNBC, 14 Nov: GTA 6 launch expected to hit food delivery, tourism and PTO (leave). [CNBC](https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html)
+- NOT VERIFIED (leak): soundtrack tracklist from leaked vinyl incl. Lana Del Rey, Keith Richards; PC Gamer (15 Nov) says Rolling Stone/Billboard sources call it accurate, Rockstar silent. Don't build a Short on it. [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/)
 - NOT VERIFIED, do not state as fact: a "silent ~1 GB update 01.002.000" reported by TechTimes (13 Nov) from data trackers; Rockstar said nothing.
 
 ## Top 5 Short ideas
