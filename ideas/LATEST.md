@@ -1,39 +1,39 @@
-# Ideas — Sun 15 Nov 2026 (run started late, ~09:10 SAST; use for 15-16 Nov)
-vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Re-checked news at 09:13 (test run).
+# Ideas — Mon 16 Nov 2026 (3 days to launch; run ~05:40 SAST)
+vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Most article pages blocked our fetcher today, so facts below are headline-level.
+None of the 15 Nov ideas has a video in videos/ yet; 15 Nov #1 (212 GB on SA fibre) and #2 (loadshedding POV) are still good if the daily run wants them.
 
 ## News today
-- VERIFIED: GTA 6 has gone gold; Take-Two CEO Strauss Zelnick says no further delays, launch 19 Nov 2026 (PS5, Xbox Series X|S). [Push Square, 10 Nov](https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold)
-- VERIFIED: PS Store preload opened 10 Nov (same source). Size widely reported as ~212 GB (not from Rockstar; say "about 212 GB").
-- VERIFIED: SA prices R1,499 Standard / R1,899 Ultimate. [Hypertext](https://htxt.co.za/2026/06/south-africa-gta-6-pricing-is-locked-in-r1499-for-standard-r1899-for-ultimate/), [Stuff](https://stuff.co.za/2026/06/25/grand-theft-auto-vi-starts-at-r1500-in-sa/)
-- VERIFIED (headline only): CNBC, 14 Nov: GTA 6 launch expected to hit food delivery, tourism and PTO (leave). [CNBC](https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html)
-- NOT VERIFIED (leak): soundtrack tracklist from leaked vinyl incl. Lana Del Rey, Keith Richards; PC Gamer (15 Nov) says Rolling Stone/Billboard sources call it accurate, Rockstar silent. Don't build a Short on it. [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/)
-- NOT VERIFIED, do not state as fact: a "silent ~1 GB update 01.002.000" reported by TechTimes (13 Nov) from data trackers; Rockstar said nothing.
+- VERIFIED: Take-Two CEO Strauss Zelnick says GTA 6 presales are "far in excess" of expectations ahead of next week's launch. [Variety](https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/), [Insider Gaming](https://insider-gaming.com/gta-6-presales-far-in-excess-take-two-expectations/)
+- VERIFIED: launch Thu 19 Nov, midnight local on PS5 and Xbox Series X|S; no PS4/Xbox One. [Rockstar Newswire](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026), [Swisher Post (SA), 23 Oct](https://www.swisherpost.com/gaming/gta-6-launch-editions-preload-date-rand-prices/)
+- VERIFIED (maths): midnight local in New Zealand (UTC+13) = 13:00 SAST Wed 18 Nov, ~11 h before SA. Swisher Post says the same.
+- VERIFIED: CNBC (14 Nov): launch expected to affect streaming, food delivery and paid time off. [CNBC](https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html)
+- NOT VERIFIED: review embargo "18 Nov" (reports from leaks; Rockstar silent): don't state it. Soundtrack vinyl leak: still unconfirmed by Rockstar.
 
 ## Top 5 Short ideas
-1. PICK — "212 GB on SA fibre = HOW long?!" (tip/facts, SA)
-   Beats: 0-1s hook; 1-4s "GTA 6 is about 212 GB"; 4-10s list: 10 Mbps ~47 h, 20 Mbps ~24 h, 50 Mbps ~9.5 h, 100 Mbps ~4.7 h; 10-13s "Preload TONIGHT".
-   Footage: Pixabay "loading bar", "router lights", "waiting clock"; trailer 3.0-6.2 marina aerial for end card.
-   Title: 212 GB on SA fibre takes HOW long? #shorts | Q: "What speed is your line? Drop it" 
-   Why: launch-week "will this affect me" angle in STRATEGY; only SA pages can answer it; numbers make people comment their speed.
-2. PICK — "POV: loadshedding hits at 23:59 on 18 Nov" (POV meme, SA)
-   Beats: 0-1s hook; 1-5s countdown on screen 23:57..23:59; 5-7s lights out/black; 7-11s "Eskom chose violence"; 11-13s trailer sunset skyline 24.6-25.6.
-   Footage: Pixabay "power outage", "candle dark room", "night city lights off". Title: POV: the power dies at 23:59 on 18 Nov #shorts
-   Q: "Generator, UPS or pray?" Why: POV memes were our best IG reach (114) and are the dominant format in launch-week meme roundups (VGTimes 13 Nov: POV skits 44k+ likes).
-3. "Can I play GTA 6 on my PS4?" (trend, SA twist: "...on my Telkom router? my cousin's Xbox One?")
-   Beats: rapid-fire "Can I play GTA 6 on my..." items each answered NO with buzzer; last: "PS5 or Series X|S. That's it."
-   Footage: Pixabay "old console", "calculator", "microwave"; trailer 25.78-27.1 car. Title: Can I play GTA 6 on my PS4? #shorts | Q: "Weirdest device you'd try?"
-   Why: Insider Gaming covered the viral "Can I play GTA 6 on my..." TikTok trend; the platform fact is verified.
-4. "3 DAYS. Then Vice City." (countdown, for 16 Nov)
-   Beats: giant "3" 0-2s; 2-8s three things to do before Thursday (preload, book leave, charge controller); 8-12s trailer marina aerial.
-   Footage: tools/make_countdown.py + trailer 3.0-6.2. Title: 3 days left — do these 3 things now #shorts | Q: "What's your launch-night snack?"
-   Why: countdown Reel was our best IG post (118 reach); 9gag "19 days until GTA VI" got 315k+ likes (VGTimes).
-5. "Is dating in GTA 6 cheating?" (debate/comment bait)
-   Beats: hook over trailer Jason & Lucia 25.78-27.1; 3-9s "Your partner sees you hold Lucia's hand…"; 9-12s "Cheating or not? Vote below".
-   Footage: trailer 25.78-27.1; Pixabay "couple arguing couch". Title: Is dating in GTA 6 cheating? #shorts | Q: "Cheating: yes or no?"
-   Why: Kotaku reported TikToks on this hitting 5M+ views each (Sep); comment-heavy topic. Hand-holding is in the official trailer; don't claim more mechanics.
+1. PICK — "New Zealand plays GTA 6 at 13:00 WEDNESDAY. We wait." (POV meme, SA)
+   Beats: 0-1s hook; 1-4s map/clock "NZ 00:00 = SA 13:00 Wed"; 4-9s "POV: you're at work watching Kiwis stream it"; 9-12s "SA: midnight Thursday" + skyline.
+   Footage: Pixabay "office worker bored", "world clock", "phone scrolling"; trailer 24.6-25.6 sunset skyline (end).
+   Title: NZ plays GTA 6 11 hours before us 😭 #shorts | Q: "Taking a sick day on Wednesday or Thursday?"
+   Why: unlock-time guides dominate search this week (gtaboom, keymap, coquina); POV memes were our best IG reach (114); only SA pages can do this angle.
+2. PICK — "3 DAYS. Presales 'far in excess' of expectations." (countdown + news)
+   Beats: giant "3" 0-2s; 2-6s quote card "far in excess of expectations" — Take-Two CEO; 6-10s "Servers on Thursday night… 💀"; 10-12s marina aerial.
+   Footage: tools/make_countdown.py; trailer 3.0-6.2 marina aerial. Title: 3 days left and GTA 6 is breaking records #shorts
+   Q: "Preloaded already? Yes/no" Why: countdown Reel = our best IG post (118 reach); fresh verified news (Variety). Don't say "record" in captions beyond the quote (title ok as hype? use "3 days left — presales blew past expectations" if strict).
+3. "R1,499 = how many Gatsbys?" (comparison, SA)
+   Beats: hook; 1-9s quick swaps: R1,499 = ~X Gatsbys / Y months Netflix / Z litres petrol (daily run: check current prices before rendering, or use round "about" figures); 9-12s "Worth it? Comment".
+   Footage: Pixabay "sandwich", "petrol pump", "wallet cash"; trailer 25.78-27.1 car. Title: GTA 6 costs R1,499. That's how many Gatsbys? #shorts
+   Q: "Standard or Ultimate?" Why: price is verified (Hypertext/Stuff); comparison format gives an SA joke, not a promo post (STRATEGY: no store promos).
+4. "POV: your girlfriend on 19 November" (POV meme, "GTA 6 widows")
+   Beats: hook; 1-6s partner staring at you on couch; 6-9s you: "it's just the game"; 9-12s Jason & Lucia in car "…she saw Lucia".
+   Footage: Pixabay "couple couch tv", "woman annoyed"; trailer 25.78-27.1. Title: POV: your girlfriend on 19 November #shorts
+   Q: "Is in-game dating cheating? Yes/No" Why: "GTA 6 widows" trend on TikTok (AOL) + cheating debate TikToks 5M+ views (Kotaku); keep to trailer facts.
+5. "No 212 GB download? Xbox Cloud at 08:00 SAST" (tip, SA)
+   Beats: hook; 1-5s "Bad line? Xbox Cloud streaming starts 08:00 SAST Thu"; 5-10s "needs Game Pass Ultimate + a decent connection" (daily run: say only what STRATEGY verifies); 10-12s CTA.
+   Footage: Pixabay "phone gaming controller", "loading"; trailer 13.58-14.43 seaplane. Title: Can't download 212 GB? Do this on 19 Nov #shorts
+   Q: "Download or stream?" Why: "will this affect me" tip format is in STRATEGY; pairs with yesterday's fibre idea.
 
 ## Trending formats spotted
-- Launch-week memes (VGTimes, 13 Nov): POV skits (marjan_estrada ~44.5k likes), PS5 "grooming" prep video (bnalgame ~113k), countdown image (9gag 315k+). [link](https://vgtimes.com/gaming-news/174487-less-than-a-week-until-gta-6-the-internet-is-already-going-wild-over-memes.html)
-- "Can I play GTA 6 on my…" TikTok trend. [Insider Gaming](https://insider-gaming.com/what-is-the-can-i-play-gta-6-on-my-trend-viral-tiktok-meme/)
-- Relationship/"is it cheating" debates, 5M+ views each. [Kotaku](https://kotaku.com/gta-6-grand-theft-auto-dating-jason-lucia-cheating-tiktok-2000730212)
-- Avoid: AI-faked "leak" clips (an AI Lucia hoax hit ~8M views then got exposed) — never repost. [NME](https://www.nme.com/news/gaming-news/grand-theft-auto-6-viral-video-hoax-ai-lucia-3913177)
+- "GTA 6 widows" / partner-jealousy TikToks around Lucia keep spreading. [AOL](https://www.aol.ca/articles/gta-6-widows-trend-explodes-120042000.html), [Kotaku](https://kotaku.com/gta-6-grand-theft-auto-dating-jason-lucia-cheating-tiktok-2000730212)
+- Launch-week POV skits and countdown images (POV ~44.5k likes, 9gag countdown 315k+). [VGTimes, 13 Nov](https://vgtimes.com/gaming-news/174487-less-than-a-week-until-gta-6-the-internet-is-already-going-wild-over-memes.html)
+- "What time does it unlock in my country" pages flood search -> unlock-time Shorts with a local twist.
+- No small-account outlier data this run (vidIQ out of credits).
