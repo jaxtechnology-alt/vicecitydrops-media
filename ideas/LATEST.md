@@ -1,42 +1,44 @@
-# Ideas — Thu 19 Nov 2026 (LAUNCH DAY: SA unlocked 00:00; run ~05:40 SAST)
-vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Strategy: "it's here" reaction, first-thing-to-do, SA launch-night POV.
+# Ideas — Fri 20 Nov 2026 (launch day +1; run ~05:40 SAST)
+vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. videos/ still only has 14 Nov.
+Strategy phase: after launch (20-23 Nov) = tips, hidden details, finds, SA reactions. Our angle on every one.
 
 ## News today
-- VERIFIED: Metacritic 99 (107-109 critic reviews, none below 90, ~80 perfect 10s) — ties Ocarina of Time (1998, 22 reviews) as highest-rated game ever. [GamesRadar, 18 Nov](https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/), [Forbes, 18 Nov](https://www.forbes.com/sites/paultassi/2026/11/18/the-gta-6-metacritic-review-score-is-in-and-ties-an-all-time-record/). Forbes: could drop "a point or so" as more reviews land.
-- VERIFIED: Sony says a PS5 system software update is REQUIRED before playing GTA VI (PlayStation Support, 17 Nov). Size/purpose not stated. [Kotaku](https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868)
-- VERIFIED (reported): day-one patch 01.002.001 ~602 MB on PS5 (Kotaku); no official patch notes. [Kotaku](https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868)
-- Still true: unlock midnight local (SA = 00:00 today); Xbox Cloud 08:00 SAST today; R1,499 / R1,899 (STRATEGY verified list).
-- NOT VERIFIED: "PSN crashed before launch" (only low-grade sites); flamingo "first look at the intro" loading screen (Rockstar hasn't confirmed). Don't use either.
+- VERIFIED (estimate): Sensor Tower says ~24.6M copies / ~$2.36B on day one vs ~$800M for GTA V's 2013 opening; ~75% on PS5. NOT official — Take-Two hasn't released figures ("soon", Zelnick). [Make Tech Easier, 20 Nov](https://maketecheasier.com/gta-6-first-day-sales-estimate/)
+- VERIFIED: Metacritic 99 from 150+ reviews at launch; IGN: "the single most impressive video game I have ever played." [Al Jazeera, 19 Nov](https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait)
+- VERIFIED (hands-on, Engadget editors): cheats locked until you finish the story; units can be switched to METRIC; shoes come off when you go to bed; 30 fps on PS5 & PS5 Pro (Pro adds ray tracing). [Engadget live blog](https://engadget.com/2320788/gta-vi-launch-day-live-blog)
+- VERIFIED (Digital Foundry via Kotaku): Series S ~720p, sometimes low-20s fps. Twitch peak >3.3M viewers (beat Valorant 1.7M). [Kotaku live](https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030)
+- NOT VERIFIED: jet-ski dog, Bigfoot, "Little Sam" cameo, voice actor names (fan clips/reports only). SA Gauteng supercar meet = real TikTok (Briefly) but "only activation in Africa" is the creator's claim. Don't state these as fact.
 
 ## Top 5 Short ideas
-1. PICK — "Monday: 6.5. Today: 99." (comparison/news) -> 12:00 (IG 16:00)
-   Beats: 0-1s hook big numbers; 1-4s "6.5 = 5 trolls who never played"; 4-8s "99 = 100+ critics, zero below 90"; 8-12s "Tied with Zelda… from 1998" + trailer car shot.
-   Footage: Pixabay "laptop typing angry", "applause crowd", "trophy"; trailer 25.78-27.1 (Jason & Lucia). No Metacritic logo.
-   Title: 6.5 on Monday. 99 on Thursday. 💀 #shorts | Q: "Does it deserve the 99? Yes/No"
-   Why: biggest verified news of the day (GamesRadar, Forbes, VICE, Dot Esports all ran it); callback to our 18 Nov review-bomb idea = built-in story arc; record framing invites debate.
-2. PICK — "POV: SA, 06:00, slept 2 hours, work at 8" (POV meme, SA) -> 19:00 (IG 19:00)
-   Beats: hook; 1-4s alarm 06:00, controller still in hand; 4-8s "eish boss…" cough call ("GTA flu" — Zelnick: "a lot of people will be calling in sick"); 8-12s trailer sunset skyline "worth it".
-   Footage: Pixabay "alarm clock morning tired", "man phone call bed", "gamer controller dark"; trailer 24.6-25.6.
-   Title: POV: South Africa the morning after GTA 6 #shorts | Q: "How many hours did you sleep? Be honest"
-   Why: strategy's "SA launch-night POV"; our best formats are POV (114 reach); real SA unlock at 00:00 tonight; CEO quote verified 17 Nov.
-3. "GTA 6 won't start on PS5? Do this first." (tip)
-   Beats: hook; 1-5s POV stuck on screen (generic, no PS UI); 5-9s "Sony: system update REQUIRED"; 9-12s "Settings > System > System Software" + skyline.
-   Footage: Pixabay "frustrated gamer", "loading screen", "game console"; trailer 0.5-1.9 "The Keys".
-   Title: GTA 6 won't start on PS5? Do this first #shorts | Q: "Did yours need the update?"
-   Why: Sony-confirmed, launch-day search intent; Kotaku/TweakTown covered it. Verify menu path on a real PS5 before posting, else say "check for a system update".
-4. "No console? Xbox Cloud opens 08:00 SAST" (tip, SA) -> early post if possible
-   Beats: hook; 1-5s phone/laptop "play in the cloud"; 5-9s "08:00 SAST today, Game Pass Ultimate*"; 9-12s "but SA fibre/ping 😬" + trailer marina.
-   Footage: Pixabay "phone gaming", "fibre router lights"; trailer 3.0-6.2. *Check Game Pass tier + SA availability before stating; else drop it.
-   Title: No PS5? GTA 6 Cloud starts 08:00 SAST #shorts | Q: "PS5, Xbox or cloud?"
-   Why: verified 1am ET time; SA angle; helps people who can't afford R1,499 + console.
-5. "Thanks Michael, Franklin, Trevor. 13 years." (emotional/goodbye trend)
-   Beats: hook on black; 3 text cards "2013… 2026"; 6-9s "Hello Jason & Lucia"; 9-13s trailer car shot. Text-only for GTA V part (no GTA V clips from others).
-   Footage: Pixabay "sunset car driving", "old tv static"; trailer 25.78-27.1.
-   Title: Goodbye Los Santos. Hello Vice City. #shorts | Q: "Who was your favourite: M, F or T?"
-   Why: "passing the torch" farewell edits viral on TikTok/Shorts this week (Bubbleblabber, 16 Nov); our spin = text-only, no reupload.
+1. PICK — "Saffas: change THIS setting first" (tip, SA) -> 16:00 (IG 16:00)
+   Beats: 0-1s hook; 1-4s "GTA 6 shows mph by default 😩"; 4-8s "Settings: switch units to METRIC"; 8-12s "now 160 km/h = N1 at 6am" + trailer car shot.
+   Footage: Pixabay "speedometer car night", "highway south africa"/"highway night"; trailer 25.78-27.1. No menu footage from others; text only.
+   Title: Saffas: change THIS GTA 6 setting first #shorts | Q: "km/h or mph — which do you use?"
+   Why: Engadget confirms metric option; tip format is strategy's post-launch focus; SA hook + debate-bait comment.
+2. PICK — "POV: SA Friday. Still got the 'GTA flu'." (POV meme, SA) -> 19:00 (IG 19:00)
+   Beats: hook; 1-4s phone "boss: you coming in today?"; 4-8s fake cough, controller under blanket; 8-12s "long weekend energy" + trailer sunset skyline.
+   Footage: Pixabay "man coughing bed phone", "gamer controller blanket", "friday"; trailer 24.6-25.6.
+   Title: POV: it's Friday and you still have GTA flu #shorts | Q: "Day 2 — at work or 'sick'?"
+   Why: POV is our best format (114 reach); IGN poll 39k+ voters, ~half would miss work (VGTimes); natural sequel to yesterday's morning-after POV.
+3. "GTA 5 made $800M on day one. GTA 6? 💀" (comparison/news) -> 12:00
+   Beats: hook; 1-4s "2013: $800M"; 4-8s "2026: ~$2.36B (est.)"; 8-10s "~R42 BILLION" (check ZAR rate on the day); 10-12s "in ONE day" + trailer marina.
+   Footage: Pixabay "money counting", "cash rain"; trailer 3.0-6.2. Say "estimate"/"Sensor Tower", never "official".
+   Title: GTA 6 made 3x GTA 5 in one day #shorts | Q: "Did you buy day one? Y/N"
+   Why: biggest number of the day (MTE, Deadline, GameSpot all ran it); rand conversion = our SA twist.
+4. "You can't use cheats until you finish the story" (facts/tip)
+   Beats: hook; 1-4s POV typing cheat code, "nothing happens"; 4-8s "Cheats unlock AFTER the story"; 8-12s "so no tank on day 1 😭" text + trailer seaplane.
+   Footage: Pixabay "typing controller frustrated", "lock icon"; trailer 13.58-14.43.
+   Title: GTA 6 cheats are LOCKED (here's why) #shorts | Q: "Would you even use cheats?"
+   Why: Engadget-confirmed; cheats are a classic GTA search term; surprise/frustration hook.
+5. "GTA 6 details nobody asked for: your shoes come off in bed" (hidden details)
+   Beats: hook; 1-4s Pixabay shoes by bed; 4-8s "Jason takes his shoes off to sleep"; 8-12s "13 years well spent" + trailer car shot.
+   Footage: Pixabay "shoes bedroom floor", "sleeping man"; trailer 25.78-27.1. Text only, no gameplay clips from others.
+   Title: GTA 6 takes your shoes off before bed 😭 #shorts | Q: "Best tiny detail you've found?"
+   Why: "hidden details" is strategy's post-launch slot; Engadget editor confirmed it; comment Q crowdsources tomorrow's ideas.
+If Rudi has played: his OWN 5-6 s clip of the metric setting or a first drive beats all of these.
 
 ## Trending formats spotted
-- "Goodbye Los Santos" farewell edits (Djo "End of Beginning", Alec Benjamin "Let Me Down Slowly"); "thousands" of edits, no view counts given. [Bubbleblabber](https://www.bubbleblabber.com/2026/11/saying-goodbye-to-los-santos-inside-the-viral-gta-tiktok-trend-passing-the-torch-to-gta-6/)
-- "First look at the intro" NZ-unlock image posts (@gtasix_ on X, 18 Nov) — first-to-show beats quality on launch day. [Sunday Guardian](https://sundayguardianlive.com/trending/watch-viral-video-first-look-at-the-gta-6-intro-new-zealand-launches-the-game-then-this-stunning-loading-screen-clip-goes-viral-324038/)
-- Record/score headlines ("highest-rated ever") dominating search today. No small-account outlier view data (vidIQ 0 credits).
-- Launch-day gap: if Rudi plays tonight, his OWN 5-6 s gameplay clip (first drive, SA reaction) beats any idea above.
+- "Weird discovery" clips on X/TikTok (jet-ski dog @ooctwts, giant crab @ChumBucketDrama, Mandy @fmjiggy), 18-19 Nov; no view counts. [Kotaku live](https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030)
+- Girlfriend "GTA survival basket" TikToks; one basket >10k likes. [VGTimes, 19 Nov](https://vgtimes.com/gaming-news/175174-girlfriends-are-packing-gta-6-survival-baskets-with-snacks-and-petroleum-jelly.html)
+- SA: Gauteng night supercar meet "Vice City style" by TikToker Elegant_pedi (Neo Lerutla); SA comments active. [Briefly](https://briefly.co.za/people/259602-gta-6-a-mzansi-luxe-sports-cars-roll-vice-city-style/)
+- Record/sales numbers and "3x GTA 5" comparisons dominate search today. No small-account outlier data (vidIQ 0 credits).
