@@ -54,3 +54,14 @@ Quota: ~198 replies/day max; keep it under 30 per run. To refresh comments immed
   Page access token is stored as a GitHub secret. Needs Rudi to create a free Meta developer app; not done yet.
 - TikTok comment replies: no free official API for this; leave manual.
 - Own gameplay clips after launch would be the biggest originality win (Rudi recording on console); upload to footage/rudi/.
+
+## 9. Music (choose per Short — added 21 Nov, Rudi: "include music as you decide")
+Pick the track by mood, don't reuse the same track on consecutive Shorts:
+- AI track (no credit needed): https://ai-music-tracks.s3.us-east-1.amazonaws.com/e681871f-2c0f-45cf-8a4b-7a09b3a14df0/fd2ea989-63f8-4af2-9615-3d89732ab881.wav (vary start 0-45 s).
+- Kevin MacLeod tracks in `music/*.mp3` (CC BY 4.0, fetched by the `fetch-music` Action: push `music-requests/<new>.txt`
+  with exact incompetech titles). MUST add the credit line from `music/<slug>.json` to the caption.
+  Mood guide: sneaky/funny POV = Sneaky Snitch, Investigations; silly memes = Monkeys Spinning Monkeys, Fluffing a Duck,
+  Pixel Peeker Polka; news/facts/tension = Cipher, Volatile Reaction, Hitman, Run Amok; deadpan "waiting" jokes = Local Forecast - Elevator.
+- Trending sounds (e.g. "Suzuki") can't be added through Metricool or legally ripped: use our own track; note in the report
+  that Rudi may swap the TikTok/IG sound by hand in-app if he wants the trend.
+Mix music at about -14 dB under nothing (no voiceover), fade in 0.3 s and out 0.5 s.

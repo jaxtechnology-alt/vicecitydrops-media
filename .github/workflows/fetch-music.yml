@@ -1,0 +1,40 @@
+name: fetch-music
+# Downloads royalty-free music (Kevin MacLeod / incompetech.com, CC BY 4.0) into music/.
+# Trigger: push music-requests/<name>.txt with one track title per line (exact incompetech title).
+# Credit required in captions: "Music: <Title> by Kevin MacLeod (incompetech.com), CC BY 4.0"
+on:
+  push:
+    paths: ['music-requests/*.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download tracks
+        run: |
+          mkdir -p music
+          shopt -s nullglob
+          for f in music-requests/*.txt; do
+            while IFS= read -r t; do
+              [ -z "$t" ] && continue
+              slug=$(echo "$t" | tr 'A-Z ' 'a-z_' | tr -cd 'a-z0-9_')
+              enc=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$t")
+              if curl -sfL -m 60 -o "music/$slug.mp3" "https://incompetech.com/music/royalty-free/mp3-royaltyfree/$enc.mp3" && [ $(stat -c%s "music/$slug.mp3") -gt 100000 ]; then
+                echo "{\"title\": \"$t\", \"artist\": \"Kevin MacLeod\", \"source\": \"incompetech.com\", \"license\": \"CC BY 4.0\", \"credit\": \"Music: $t by Kevin MacLeod (incompetech.com), CC BY 4.0\"}" > "music/$slug.json"
+                echo "OK $t"
+              else
+                rm -f "music/$slug.mp3"; echo "FAILED $t"
+              fi
+            done < "$f"
+            git rm -q "$f"
+          done
+      - name: Commit music
+        run: |
+          git config user.name "Vice City Drops bot"
+          git config user.email "jaxtechnology-alt@users.noreply.github.com"
+          git add -A
+          git commit -m "Add CC BY music" || echo "nothing new"
+          git push
