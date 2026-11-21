@@ -1,0 +1,23 @@
+[
+ {
+  "file": "footage/barbecue_fire_1.mp4",
+  "user": "LaDoncella",
+  "page": "https://pixabay.com/videos/id-198073/",
+  "tags": "fire, bonfire, barbecue, ashes",
+  "duration": 80
+ },
+ {
+  "file": "footage/barbecue_fire_2.mp4",
+  "user": "srb_films",
+  "page": "https://pixabay.com/videos/id-124830/",
+  "tags": "bbq, grill, meat, barbecue, food, grilling, fire",
+  "duration": 5
+ },
+ {
+  "file": "footage/barbecue_fire_3.mp4",
+  "user": "srb_films",
+  "page": "https://pixabay.com/videos/id-124829/",
+  "tags": "bbq, grill, meat, barbecue, food, fire, grilling, beef",
+  "duration": 5
+ }
+]
