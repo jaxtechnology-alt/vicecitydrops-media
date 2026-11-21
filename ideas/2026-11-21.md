@@ -41,3 +41,4 @@ If Rudi has played: his OWN 5-6 s radio/drive clip with Suzuki playing beats all
 - "Lost my partner to GTA VI" / husband's TV-rules contract: @hannahbierman11 ~154k views; @_simplysaskia ~2.8M. [Yahoo/Daily Dot](https://www.yahoo.com/entertainment/articles/tiktokers-post-losing-partners-gta-111500872.html)
 - Women planning nights out "fewer men around" while partners play (GameSpot headline; page unreadable). [GameSpot](https://www.gamespot.com/articles/gta-6-is-out-and-people-are-planning-to-party-outside-the-game-in-a-much-different-world/)
 - Celebs joining a "GTA photo" trend (411mania headline; page unreadable). No small-account outlier data (vidIQ 0 credits).
+USED 2026-11-21: Miami vs Cape Town (12:05, Run Amok) | GTA 6 house rules SA (16:00, Sneaky Snitch) | Suzuki taxi POV (19:00, Monkeys Spinning Monkeys). IG trend audio via Metricool = Authorization Error (not a Business-linked account).
