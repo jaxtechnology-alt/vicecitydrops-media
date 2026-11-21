@@ -1,5 +1,5 @@
 # Ideas — Sat 21 Nov 2026 (launch day +2, first weekend; run ~05:40 SAST)
-vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Strategy: tips, finds, SA reactions; last 3/day posting day (2/day from 22 Nov).
+vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Strategy: tips, finds, SA reactions; Rudi 21 Nov: 3 Shorts/day on ALL networks (12:00/16:00/19:00) until he says stop -> 3 PICKs.
 
 ## News today
 - VERIFIED: "GTA VI: The Festival" is TONIGHT, 21 Nov, Mana Wynwood, Miami (Rockstar + PlayStation): Travis Scott, Cardi B, Don Toliver, Kodak Black, Metro Boomin, Justice + more. Lottery tickets only; no stream announced. Miami evening = early Sun SAST. [Push Square, 9 Nov](https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation)
@@ -19,7 +19,7 @@ vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checke
    Footage: Pixabay "contract signing pen", "couple couch tv", "braai"; trailer 24.6-25.6.
    Title: GTA 6 house rules (South African edition) #shorts | Q: "What rule would you add?"
    Why: partner "contract" videos: @hannahbierman11 153.9k views/11.6k likes (17 Nov), @_simplysaskia 2.8M (Daily Dot/Yahoo 19 Nov). Comment Q = rule-adding replies.
-3. "Miami's partying for GTA 6 tonight. Cape Town?" (comparison, SA) -> 12:00
+3. PICK — "Miami's partying for GTA 6 tonight. Cape Town?" (comparison, SA) -> 12:00
    Beats: hook; 1-5s "Miami: Travis Scott, Cardi B, 2 stages"; 5-9s "Cape Town: braai, PS5, Castle Lite"; 9-12s "honestly? same vibe" + trailer marina.
    Footage: Pixabay "concert crowd lights", "braai fire night", "cape town night"; trailer 3.0-6.2. No festival footage from others.
    Title: Miami vs Cape Town: GTA 6 weekend #shorts | Q: "Miami festival or your couch?"

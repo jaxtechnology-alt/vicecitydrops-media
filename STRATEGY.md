@@ -13,8 +13,10 @@ Last updated: Sun 15 Nov 2026 (weekly review #1)
   30fps target on PS5/Xbox; Miami launch festival 21 Nov. Do NOT state a single Xbox SA unlock time or a review-embargo date (unconfirmed).
 
 ## Posting
-- YouTube, TikTok, Facebook: 3/day 16-21 Nov at 12:00, 16:00, 19:00 SAST; back to 2/day (16:00, 19:00) from 22 Nov.
-- Instagram: max 2/day (16:00 and 19:00), the strongest two; type REEL.
+- RUDI'S RULE (21 Nov, until he says stop): 3 Shorts EVERY day on ALL networks (YouTube, Instagram, Facebook, TikTok)
+  at 12:00, 16:00, 19:00 SAST. Weekly review may change topics/times but not drop below 3/day. Never swap a Short for a text post.
+- Built from what we find online (news, trending hooks/sounds) + footage we may use (Rockstar trailer windows, Pixabay/Pexels,
+  Rudi's own clips). Never re-upload other creators' videos. Instagram type REEL.
 - Hook text on screen in the first second; 8-14 s; one comment question per video; title starts with the hook, not "GTA 6 news".
 
 ## Stop doing
