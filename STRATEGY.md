@@ -1,33 +1,41 @@
 # Vice City Drops — current strategy (updated by the weekly review; daily runs follow it)
 
-Last updated: Sun 15 Nov 2026 (weekly review #1)
+Last updated: Sun 22 Nov 2026 (weekly review #2)
 
-## What to make now (launch week 16-23 Nov)
-- Before launch (16-18 Nov): relatable POV memes ("POV: you booked leave", "people on 19 Nov vs me"), countdown
-  hooks with a big number on screen, "will this affect me" facts (console, 212 GB / SA fibre time, R1,499 / R1,899).
-- Launch day 19 Nov: "it's here" reaction Short at unlock, "first thing to do in Vice City", SA launch-night POV.
-- After launch (20-23 Nov): tips, hidden details, map/vehicle finds, Real Miami vs Vice City, SA reactions.
-- Every Short needs OUR angle (SA twist, comparison, question, joke). YouTube cut reach for re-uploads with
-  minimal edits (Oct 2026), so never repost other creators' or leaked clips (e.g. the "Ocean Drive" clip); max ~6 s Rockstar footage.
-- Verified facts to use: went gold 10 Nov; PS5 unlocks midnight local; Xbox Cloud streaming 1am ET = 08:00 SAST 19 Nov;
-  30fps target on PS5/Xbox; Miami launch festival 21 Nov. Do NOT state a single Xbox SA unlock time or a review-embargo date (unconfirmed).
+## What to make now (week 23-29 Nov, launch +4 to +10)
+- PEOPLE + JOKE beats FACTS. Winners this week were real-life footage + a relatable POV: "People on 19 Nov vs me"
+  (FB 575 views, TikTok 183), Miami vs Cape Town (IG 146 reach, best), SA house rules (IG 140). Pure fact/text cards
+  flopped (IG price + "1 day left" = 0 reach; FB 212 GB + console = 10 views each).
+- Mix each day: (1) POV/relationship meme — "GTA 6 widows"/partner-vs-GTA and family memes are the big trend
+  (Ma's Sunday lunch, "5 more minutes", girlfriend vs Lucia's texts); (2) SA twist on a verified headline
+  ($3.79B day one, 32.5M copies, 99 Metacritic) — always with people/real footage, never just numbers;
+  (3) comparison/tip (real Miami vs Vice City, GTA 5 then vs GTA 6 now in SA, settings to change first).
+- Post news the SAME day it breaks: Shorts reach now favours fresh uploads. Don't recycle last week's countdown topics.
+- Rumours stay out: GTA 6 Online date and PC date (Feb 2027) are leaks only. No spoilers, no weapons, max ~6 s Rockstar footage.
+- Rudi's own gameplay clips in footage/rudi/ go first whenever they exist (biggest originality win).
 
 ## Posting
 - RUDI'S RULE (21 Nov, until he says stop): 3 Shorts EVERY day on ALL networks (YouTube, Instagram, Facebook, TikTok)
   at 12:00, 16:00, 19:00 SAST. Weekly review may change topics/times but not drop below 3/day. Never swap a Short for a text post.
-- Built from what we find online (news, trending hooks/sounds) + footage we may use (Rockstar trailer windows, Pixabay/Pexels,
-  Rudi's own clips). Never re-upload other creators' videos. Instagram type REEL.
-- Hook text on screen in the first second; 8-14 s; one comment question per video; title starts with the hook, not "GTA 6 news".
+- A Facebook text post or a re-post of an old Short to one network does NOT count toward the 3 (19-20 Nov did this; YT/FB/TikTok got 0 Shorts on launch days).
+- Every post must list all 4 providers; after scheduling, re-read getScheduledPosts and fix any missing network (15-16 Nov lost IG on 3 posts).
+- Built from what we find online + footage we may use; never re-upload other creators' videos. Instagram type REEL.
+- 8-12 s; hook text in the first second; one comment question; title starts with the hook. Drop "#shorts" from IG/FB/TikTok captions (YouTube title only).
 
 ## Stop doing
-- Store/pre-order promo posts ("last chance to buy", bonus packs): worst post of the week (6 IG reach).
-- Plain text-on-graphic info posts with no meme/POV angle.
+- Text-only info cards (prices, countdowns, download sizes) with no person/POV — worst performers on IG and FB.
+- Store/promo posts. Facebook text posts in a Shorts slot.
 
-## Targets (week to 22 Nov)
-- YouTube: 25 subs, 5,000 Shorts views. Instagram: 30 followers, 3,000 reach. TikTok: 5,000 views. Facebook: 2,000 reel views.
-- YPP (1,000 subs + 10M Shorts views in 90 days) is a long road from 0 subs; launch week is the best shot at a breakout.
+## Targets (week to 29 Nov)
+- YouTube: +15 subs (5 -> 20), 7,000 Shorts views. Instagram: 1,500 reach. TikTok: 3,500 views, +10 followers. Facebook: 3,000 reel views.
+- 21 Shorts per network (3/day, zero gaps). At least 3 comments per day across networks (ask either/or questions).
+- YPP: 5 / 1,000 subs; ~6k of 10M Shorts views. Realistic path is the 1,000-sub milestone first (YPP lower tier); aim +15-25 subs/week now.
 
 ## Lessons log (newest first)
+- 22 Nov: week 2. YT 6,278 views (15-18 Nov; 19-21 not reported yet), subs 1->5. IG reach 881 (prev wk 237).
+  FB reel views 2,402 (prev 604). TikTok 3,275 views on 11 videos (prev 1,010), 24 followers. Only 21 Nov had 3 Shorts on all 4;
+  launch days 19-20 got 0 Shorts on YT/FB/TikTok; 22 Nov daily run posted nothing by 10:45 (proposed a free daily-watchdog GitHub Action, awaiting OK).
+  TikTok views fell from ~480/video (14-16 Nov) to ~120-180 after launch: countdown hype is over, need new angles.
 - 15 Nov: week 1 = 1 posting day. IG: countdown Reel 118 reach, "POV booked leave" 114, "Vintage pack last chance" 6.
-  FB: 2 reels, 439 views. YT/TikTok: no view data in Metricool yet. Promo-style post flopped; memes/countdowns ok.
+  FB: 2 reels, 439 views. Promo-style post flopped; memes/countdowns ok.
 - 14 Nov: first IG countdown Reel reached 114 accounts with plain graphics; mixed real-footage style chosen.
