@@ -1,0 +1,46 @@
+[
+ {
+  "file": "videos/2026-11-24_gta6-20-seconds-chaos.mp4",
+  "ok": true,
+  "videoId": "YGdStAcGDMY",
+  "url": "https://www.youtube.com/shorts/YGdStAcGDMY",
+  "status": {
+   "uploadStatus": "uploaded",
+   "privacyStatus": "public",
+   "license": "youtube",
+   "embeddable": true,
+   "publicStatsViewable": true,
+   "selfDeclaredMadeForKids": false
+  }
+ },
+ {
+  "file": "videos/2026-11-24_gta6-lgbtq-cast-hype.mp4",
+  "ok": true,
+  "videoId": "4jmdMLggzZs",
+  "url": "https://www.youtube.com/shorts/4jmdMLggzZs",
+  "status": {
+   "uploadStatus": "uploaded",
+   "privacyStatus": "private",
+   "publishAt": "2026-11-24T14:00:00Z",
+   "license": "youtube",
+   "embeddable": true,
+   "publicStatsViewable": true,
+   "selfDeclaredMadeForKids": false
+  }
+ },
+ {
+  "file": "videos/2026-11-24_ma-lets-you-play-gta6.mp4",
+  "ok": true,
+  "videoId": "s-uvSkFAyMQ",
+  "url": "https://www.youtube.com/shorts/s-uvSkFAyMQ",
+  "status": {
+   "uploadStatus": "uploaded",
+   "privacyStatus": "private",
+   "publishAt": "2026-11-24T17:00:00Z",
+   "license": "youtube",
+   "embeddable": true,
+   "publicStatsViewable": true,
+   "selfDeclaredMadeForKids": false
+  }
+ }
+]
