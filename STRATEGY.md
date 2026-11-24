@@ -6,6 +6,11 @@ Last updated: Sun 22 Nov 2026 (weekly review #2)
 - RUDI 24 Nov: "WE NEED FOLLOWERS" — every post asks for the follow: last 1.5-2 s of every Short shows a card
   "FOLLOW for daily GTA 6 drops" (plus the comment question), and every caption/description ends with
   "👉 FOLLOW @vicecitydropsza for daily GTA 6 drops — just one tap! 🌴🔥".
+- RUDI 24 Nov: CAPTIONS SHORT (his old 21 Nov post had "all the info in the top" = poor). Format, nothing else on top:
+    line 1: hook + 1-2 emoji | line 2: either/or question 👇 | line 3: 👉 Follow for daily GTA 6 drops!
+    blank line, 4-5 hashtags, blank line, ONE credit line: "🎵 <Track> – <Artist> [NCS] · 🎮 Rockstar Games · Fan page"
+    (Pixabay needs no credit in captions; MacLeod CC BY tracks: "🎵 <Track> – Kevin MacLeod (CC BY)"). YouTube description may
+    add the full NCS credit line below that.
 - RUDI 24 Nov: music = popular credited NCS tracks (music/ncs_*.mp3, credit line in every caption); Mixkit/MacLeod only as backup.
 - RUDI 24 Nov: Shorts are now ~20 s (18-22 s). Focus on GAMEPLAY + ACTION (official trailer action shots, 1-2 s cuts: chases, jet skis,
   bikes, boats, explosions; library in tools/README.md 2b) and big social-hype topics (e.g. GTA 6 queer representation debate) — facts only
