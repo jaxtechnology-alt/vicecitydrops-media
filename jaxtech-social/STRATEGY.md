@@ -16,6 +16,9 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 - End every caption with ONE easy question (either/or, yes/no or "tell us your…"). Never "comment YES to…" style bait (Meta demotes engagement bait).
 - CTA line: "📲 Free bill check: WhatsApp us or call 021 002 5637 · 🌐 jaxtech.co.za". 4–6 hashtags.
 
+## Key message (Rudi, 24 Nov 2026)
+- HAMMER CLEAR VOICE QUALITY: most people expect VoIP to sound choppy/robotic/delayed. Our calls are crystal clear. Work this into hooks, captions and at least 2 posts a week (e.g. myth 'VoIP sounds bad', 'why some VoIP sounds bad and ours doesn't', 'can your clients hear you clearly?'). Never invent quotes; client reviews only once approved and listed in STRATEGY.md.
+
 ## Content pillars (rotate, never the same pillar two days running)
 1. Landline → VoIP: Telkom copper switch-off, keeping your number (porting), what changes.
 2. Save money: reading your phone bill, per-second vs per-minute billing, hidden line-rental costs, no-contract.
