@@ -6,6 +6,7 @@ Last updated: Sun 22 Nov 2026 (weekly review #2)
 - RUDI 24 Nov: "WE NEED FOLLOWERS" — every post asks for the follow: last 1.5-2 s of every Short shows a card
   "FOLLOW for daily GTA 6 drops" (plus the comment question), and every caption/description ends with
   "👉 FOLLOW @vicecitydropsza for daily GTA 6 drops — just one tap! 🌴🔥".
+- RUDI 24 Nov: music = popular credited NCS tracks (music/ncs_*.mp3, credit line in every caption); Mixkit/MacLeod only as backup.
 - RUDI 24 Nov: Shorts are now ~20 s (18-22 s). Focus on GAMEPLAY + ACTION (official trailer action shots, 1-2 s cuts: chases, jet skis,
   bikes, boats, explosions; library in tools/README.md 2b) and big social-hype topics (e.g. GTA 6 queer representation debate) — facts only
   from reputable outlets, respectful tone, never mocking. Up to ~14 s official Rockstar trailer footage per Short; real-life clips only as a setup.

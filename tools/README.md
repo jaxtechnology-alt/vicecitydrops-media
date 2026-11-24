@@ -75,6 +75,12 @@ Quota: ~198 replies/day max; keep it under 30 per run. To refresh comments immed
 ## 9. Music (choose per Short — added 21 Nov, Rudi: "include music as you decide")
 Pick the track by mood, don't reuse the same track on consecutive Shorts:
 - AI track (no credit needed): https://ai-music-tracks.s3.us-east-1.amazonaws.com/e681871f-2c0f-45cf-8a4b-7a09b3a14df0/fd2ea989-63f8-4af2-9615-3d89732ab881.wav (vary start 0-45 s).
+- RUDI 24 Nov (later): "use NICE DECENT MUSIC and give the artists credit" -> FIRST CHOICE = NCS (NoCopyrightSounds) tracks in
+  music/ncs_*.mp3 (Cradles, Royalty, Mortals, Invincible, Fearless Pt. II, Heroes Tonight, Sky High, On & On, Blank, Let It Go).
+  NCS policy: free for independent creators on YouTube (incl. monetised), IG, TikTok, FB; never upload the music on its own.
+  ALWAYS paste the "credit" line from music/ncs_<slug>.json into the caption/description. More tracks: push
+  music-requests-ncs/<new>.txt with ncs.io track URLs (e.g. https://ncs.io/Royalty; search terms don't work).
+  Start at the drop (use loudness: Cradles ~15 s, Royalty ~40 s, Invincible ~15 s, Mortals ~50 s, Fearless2 ~55 s).
 - RUDI 24 Nov: the polka/cartoon tracks (Monkeys Spinning Monkeys, Fluffing a Duck, Pixel Peeker Polka, Sneaky Snitch) "were not great" — prefer
   Vice City vibes: synthwave + hip-hop. FIRST CHOICE: Mixkit tracks `music/mixkit_synthwave_*.mp3` and `music/mixkit_hip-hop_*.mp3`
   (Mixkit Stock Music Free License: free for YouTube/social videos, no credit needed; caption "Music: Mixkit (free license)").
