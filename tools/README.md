@@ -36,6 +36,8 @@ Example 20 s montage: videos/2026-11-24_gta6-20-seconds-chaos.mp4 (1-2 s cuts, s
   free for these platforms, once Rudi has connected the accounts. vidIQ's own YouTube posting is limited to 3/day on the free plan.
 
 ## 3. Render
+READABILITY (Rudi 24 Nov): card time >= 0.4 s/word + 0.6 s (min 1.8 s, max ~3.5 s); hold one card across several quick cuts.
+
 Text cards: `tools/text_cards.py` (PIL, Poppins-Bold, colours #ff3caa #3cf0ff #ffd65a, outline #120830).
 Per scene: `ffmpeg -ss S -t D -i clip -i card.png -filter_complex "[0:v]scale=-2:1920,crop=1080:1920,setsar=1,fps=30[b];[b][1:v]overlay=0:0,format=yuv420p" -an -c:v libx264 -preset veryfast -crf 19 sN.mp4`
 Concat (`-f concat -c copy`), add music (download the .wav, `-ss 0..45`, afade in/out, `-shortest`).

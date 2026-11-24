@@ -6,6 +6,9 @@ Last updated: Sun 22 Nov 2026 (weekly review #2)
 - RUDI 24 Nov: "WE NEED FOLLOWERS" — every post asks for the follow: last 1.5-2 s of every Short shows a card
   "FOLLOW for daily GTA 6 drops" (plus the comment question), and every caption/description ends with
   "👉 FOLLOW @vicecitydropsza for daily GTA 6 drops — just one tap! 🌴🔥".
+- RUDI 24 Nov: TEXT MUST BE READABLE. Each text card stays on screen at least 0.4 s per word + 0.6 s (min 1.8 s; e.g. 6 words = 3 s),
+  max ~3.5 s. Keep the SAME card over several fast 1 s gameplay cuts instead of changing text every cut. Max ~8 words per card,
+  ~6-7 cards per 20 s Short. Check with the frame sheet: every card must appear in at least 3 consecutive 0.7 s frames.
 - RUDI 24 Nov: CAPTIONS SHORT (his old 21 Nov post had "all the info in the top" = poor). Format, nothing else on top:
     line 1: hook + 1-2 emoji | line 2: either/or question 👇 | line 3: 👉 Follow for daily GTA 6 drops!
     blank line, 4-5 hashtags, blank line, ONE credit line: "🎵 <Track> – <Artist> [NCS] · 🎮 Rockstar Games · Fan page"
