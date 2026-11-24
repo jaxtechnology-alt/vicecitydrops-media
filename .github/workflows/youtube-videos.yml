@@ -1,0 +1,27 @@
+name: youtube-videos
+# Change privacy of our YouTube videos: push yt-actions/<new>.json = [{"videoId": "...", "privacyStatus": "private"}]
+on:
+  push:
+    paths: ['yt-actions/*.json', '!yt-actions/done.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: youtube-videos
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update videos
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python3 scripts/yt_videos.py
+      - name: Commit log
+        run: |
+          git config user.name "Vice City Drops bot"
+          git config user.email "jaxtechnology-alt@users.noreply.github.com"
+          git add -A
+          git commit -m "YouTube video updates" || echo "nothing new"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
