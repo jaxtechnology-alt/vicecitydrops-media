@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-25",
+  "pillar": "Landline to VoIP",
+  "slides": [
+    {"type": "cover", "kicker": "TELKOM COPPER SWITCH-OFF", "title": "Is your office number on <em>borrowed time</em>?", "sub": "What to do before your landline goes quiet.", "photo": "desk-call"},
+    {"type": "point", "n": 1, "title": "Copper lines are being <em>switched off</em>", "body": "Telkom is moving customers off its old copper network. When your line goes, your calls can go with it."},
+    {"type": "point", "n": 2, "title": "You can <em>keep your number</em>", "body": "Your existing office number can move to VoIP. Customers still dial the same number they always have."},
+    {"type": "point", "n": 3, "title": "Answer it <em>anywhere</em>", "body": "With a softphone app, your office number rings on your cellphone or laptop: at the office, at home or on site."},
+    {"type": "point", "n": 4, "title": "Pay <em>less</em> for every call", "body": "Business VoIP from R59 an extension and 33c a minute, billed per second. No contract."},
+    {"type": "cta", "title": "Still on a copper line?", "body": "Send us a photo of your latest phone bill and we'll show you what you'd pay instead. Free, no obligation."}
+  ],
+  "caption": "Is your office number on borrowed time? 📞\n\nTelkom is switching off its old copper lines across South Africa. If your business still runs on one, the day it goes, your calls can stop too.\n\nThe good news: you don't have to lose your number.\n✅ Move your existing number to VoIP\n✅ Answer it on your cellphone, laptop or desk phone\n✅ From R59 an extension, 33c a minute, no contract\n\nSwipe through, then tell us 👇\nIs your landline still holding on, or has it already gone quiet?\n\n📲 Free bill check: WhatsApp us or call 021 002 5637\n🌐 jaxtech.co.za",
+  "hashtags": ["#BusinessVoIP", "#SouthAfricanBusiness", "#CapeTownBusiness", "#Telkom", "#CloudPhone", "#JaxTech"]
+}
