@@ -32,7 +32,7 @@ Example 20 s montage: videos/2026-11-24_gta6-20-seconds-chaos.mp4 (1-2 s cuts, s
 ## 4b. FREE posting (24 Nov): Metricool's free plan is OUT of posts ("You have reached your Metricool account limit").
 - YouTube: push yt-uploads/<new>.json (see scripts/yt_upload.py; publishAt in UTC schedules it) -> youtube-upload Action uploads via
   the YouTube Data API (~6 uploads/day quota). Result + video URLs in yt-uploads/done.json. Set privacy with yt-actions/*.json (youtube-videos Action).
-- Connected in vidIQ (24 Nov): Instagram @vicecitydropsza platformAccountId 29939135062357285, Facebook Page 1435926122939947. TikTok not yet.
+- Connected in vidIQ (24 Nov): Instagram @vicecitydropsza platformAccountId 29939135062357285, Facebook Page 1435926122939947, TikTok "Vice City Drops | GTA 6" platformAccountId _0002i1NcO3BxGxBFGHb_kJz2wcj-MU0DTrz.
   NOTE: Windsor's Instagram connector now points to jaxtech.co.za (17841454574431224), NOT @vicecitydropsza — IG comment replies/insights via Windsor won't work until Rudi re-adds the account there.
 - Instagram / TikTok / Facebook: vidIQ social posting (vidiq_social_account_list -> vidiq_social_post_draft_create -> vidiq_social_post_publish),
   free for these platforms, once Rudi has connected the accounts. vidIQ's own YouTube posting is limited to 3/day on the free plan.
