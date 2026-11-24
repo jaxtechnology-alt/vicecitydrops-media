@@ -58,6 +58,14 @@ Quota: ~198 replies/day max; keep it under 30 per run. To refresh comments immed
 ## 9. Music (choose per Short — added 21 Nov, Rudi: "include music as you decide")
 Pick the track by mood, don't reuse the same track on consecutive Shorts:
 - AI track (no credit needed): https://ai-music-tracks.s3.us-east-1.amazonaws.com/e681871f-2c0f-45cf-8a4b-7a09b3a14df0/fd2ea989-63f8-4af2-9615-3d89732ab881.wav (vary start 0-45 s).
+- RUDI 24 Nov: the polka/cartoon tracks (Monkeys Spinning Monkeys, Fluffing a Duck, Pixel Peeker Polka, Sneaky Snitch) "were not great" — prefer
+  Vice City vibes: synthwave + hip-hop. FIRST CHOICE: Mixkit tracks `music/mixkit_synthwave_*.mp3` and `music/mixkit_hip-hop_*.mp3`
+  (Mixkit Stock Music Free License: free for YouTube/social videos, no credit needed; caption "Music: Mixkit (free license)").
+  Get more with the `fetch-music-web` Action: push `music-requests-web/<new>.txt` with lines like
+  `https://mixkit.co/free-stock-music/tag/synthwave/ 6`. Upbeat MacLeod alternatives: Werq, Cyborg Ninja, Funkorama.
+  Start music at a loud section (skip intros, e.g. synthwave_173 at 40 s, hip-hop_260 at 60 s, Werq at 40 s).
+- Trailer clean.mp4 has black letterbox bars: crop=1920:960:0:60 before scaling to 9:16. Note: 3.0-4.5 s is actually
+  "The Keys" sign; the marina aerial starts ~4.5 s.
 - Kevin MacLeod tracks in `music/*.mp3` (CC BY 4.0, fetched by the `fetch-music` Action: push `music-requests/<new>.txt`
   with exact incompetech titles). MUST add the credit line from `music/<slug>.json` to the caption.
   Mood guide: sneaky/funny POV = Sneaky Snitch, Investigations; silly memes = Monkeys Spinning Monkeys, Fluffing a Duck,
