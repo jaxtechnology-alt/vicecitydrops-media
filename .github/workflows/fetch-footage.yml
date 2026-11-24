@@ -37,4 +37,4 @@ jobs:
           find footage -name '*.mp4' -size +90M -print -delete   # GitHub rejects files >100 MB
           git add -A
           git commit -m "Add Pixabay footage" || echo "nothing new"
-          git push
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
