@@ -2,4 +2,4 @@
 
 | Date | Pillar | Hook | FB post id | IG media id |
 |---|---|---|---|---|
-| 2026-11-25 | Landline to VoIP | Is your office number on borrowed time? | scheduled photo 1138073242312268 (12:30) | pending — IG (jaxtech.co.za, id 17841454574431224) connected 24 Nov; daily task posts it 25 Nov |
+| 2026-11-24 | Landline to VoIP | Is your office number on borrowed time? | 114173681294938_1138141805638745 | 18122562656113849 |
