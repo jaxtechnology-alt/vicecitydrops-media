@@ -42,5 +42,20 @@
    "publicStatsViewable": true,
    "selfDeclaredMadeForKids": false
   }
+ },
+ {
+  "file": "videos/2026-11-24_ma-lets-you-play-gta6-v2.mp4",
+  "ok": true,
+  "videoId": "IlE75N5cE5E",
+  "url": "https://www.youtube.com/shorts/IlE75N5cE5E",
+  "status": {
+   "uploadStatus": "uploaded",
+   "privacyStatus": "private",
+   "publishAt": "2026-11-24T17:00:00Z",
+   "license": "youtube",
+   "embeddable": true,
+   "publicStatsViewable": true,
+   "selfDeclaredMadeForKids": false
+  }
  }
 ]
