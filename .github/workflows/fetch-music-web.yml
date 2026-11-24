@@ -1,0 +1,46 @@
+name: fetch-music-web
+# Downloads royalty-free music from Mixkit (Mixkit Stock Music Free License: commercial use in YouTube/social videos,
+# no attribution required; don't redistribute tracks on their own).
+# Trigger: push music-requests-web/<name>.txt with one Mixkit page URL per line (genre/tag page),
+# optionally followed by a space and a max count (default 4).
+on:
+  push:
+    paths: ['music-requests-web/*.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download tracks
+        run: |
+          mkdir -p music
+          shopt -s nullglob
+          for f in music-requests-web/*.txt; do
+            while read -r url n; do
+              [ -z "$url" ] && continue
+              n=${n:-4}
+              tag=$(basename "$url" | tr -cd 'a-z0-9-')
+              curl -sfL -m 60 -A 'Mozilla/5.0' "$url" -o /tmp/page.html || { echo "FAILED page $url"; continue; }
+              grep -oE 'https://assets\.mixkit\.co/[A-Za-z0-9_./-]+\.mp3' /tmp/page.html | sort -u | head -n "$n" > /tmp/mp3s.txt
+              echo "Found $(wc -l < /tmp/mp3s.txt) mp3s on $url"
+              while read -r mp3; do
+                id=$(echo "$mp3" | grep -oE '[0-9]+' | tail -1)
+                slug="mixkit_${tag}_${id}"
+                if curl -sfL -m 60 -A 'Mozilla/5.0' -o "music/$slug.mp3" "$mp3" && [ $(stat -c%s "music/$slug.mp3") -gt 100000 ]; then
+                  echo "{\"title\": \"Mixkit $tag #$id\", \"source\": \"$mp3\", \"page\": \"$url\", \"license\": \"Mixkit Stock Music Free License\", \"credit\": \"\"}" > "music/$slug.json"
+                  echo "OK $slug"
+                else rm -f "music/$slug.mp3"; echo "FAILED $mp3"; fi
+              done < /tmp/mp3s.txt
+            done < "$f"
+            git rm -q "$f"
+          done
+      - name: Commit music
+        run: |
+          git config user.name "Vice City Drops bot"
+          git config user.email "jaxtechnology-alt@users.noreply.github.com"
+          git add -A
+          git commit -m "Add Mixkit music" || echo "nothing new"
+          git push
