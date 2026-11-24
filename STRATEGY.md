@@ -3,6 +3,10 @@
 Last updated: Sun 22 Nov 2026 (weekly review #2)
 
 ## What to make now (week 23-29 Nov, launch +4 to +10)
+- RUDI 24 Nov: Shorts are now ~20 s (18-22 s). Focus on GAMEPLAY + ACTION (official trailer action shots, 1-2 s cuts: chases, jet skis,
+  bikes, boats, explosions; library in tools/README.md 2b) and big social-hype topics (e.g. GTA 6 queer representation debate) — facts only
+  from reputable outlets, respectful tone, never mocking. Up to ~14 s official Rockstar trailer footage per Short; real-life clips only as a setup.
+- Never clip/re-upload other creators' videos (copyright + YouTube reused-content = no monetisation): copy their hooks/formats instead.
 - PEOPLE + JOKE beats FACTS. Winners this week were real-life footage + a relatable POV: "People on 19 Nov vs me"
   (FB 575 views, TikTok 183), Miami vs Cape Town (IG 146 reach, best), SA house rules (IG 140). Pure fact/text cards
   flopped (IG price + "1 day left" = 0 reach; FB 212 GB + console = 10 views each).

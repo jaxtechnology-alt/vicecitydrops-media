@@ -18,6 +18,23 @@ Verified safe shots (no guns): 0.5-1.9 "The Keys" sign; 3.0-6.2 marina aerial; 1
 24.6-25.6 sunset skyline (faint logo); 25.78-27.1 Jason & Lucia in car. Avoid 19-21 and 27.2-29 (weapons).
 Always check frames (ffmpeg -ss T -i file -frames:v 1) of the final render before posting. Max ~6 s Rockstar footage.
 
+
+## 2b. More official trailers (added 24 Nov) — GAMEPLAY/ACTION library
+Refresh URLs free with vidiq_video_upload uploadId: Trailer 1 = 7cc17356-c6e8-4a30-a566-ca6408051003 (90 s, no letterbox),
+Trailer 2 = 8ebf80ea-4e51-4a64-95cc-46a25f72d176 (167 s, letterbox: crop=1920:864:0:108). Normalise like section 2 (t1c/t2c).
+Checked safe ACTION shots (no guns): T1 23.4-24.7 speedboat; 27.5-29.0 lowriders/traffic; 32.7-34.0 neon strip cars; 35.8-37.3 bridge aerial;
+63.65-64.5 + 66.75-67.6 police chase aerials (Weazel news banner); 65.7-66.6 dirt-bike wheelies; 70.4-72.7 red muscle car; 11-18 beach aerial;
+29.05-29.9 club; 30.6-32.5 night city aerial; 34.2-35.6 club crowd. T2 29-34 Jason driving; 92.1-96 bar dancing; 96.2-98.4 + 98.55-99.6 Jason & Lucia;
+118.0-118.8 car explosion; 138.15-139.0 helicopter; 139.15-140.0 airboat; 140.1-141.8 jet ski jump; 141.9-143.6 motorbike vs plane; 81.5-83 sunset dock.
+AVOID: T1 47.5-50 (police/guns), 68.7-70.3 (masked robbery), 72.8-76.5 (violence); T2 126.7-129.4 (strip club), 111-117, 119.6-125.8.
+Example 20 s montage: videos/2026-11-24_gta6-20-seconds-chaos.mp4 (1-2 s cuts, short label per shot, Cyborg Ninja).
+
+## 4b. FREE posting (24 Nov): Metricool's free plan is OUT of posts ("You have reached your Metricool account limit").
+- YouTube: push yt-uploads/<new>.json (see scripts/yt_upload.py; publishAt in UTC schedules it) -> youtube-upload Action uploads via
+  the YouTube Data API (~6 uploads/day quota). Result + video URLs in yt-uploads/done.json. Set privacy with yt-actions/*.json (youtube-videos Action).
+- Instagram / TikTok / Facebook: vidIQ social posting (vidiq_social_account_list -> vidiq_social_post_draft_create -> vidiq_social_post_publish),
+  free for these platforms, once Rudi has connected the accounts. vidIQ's own YouTube posting is limited to 3/day on the free plan.
+
 ## 3. Render
 Text cards: `tools/text_cards.py` (PIL, Poppins-Bold, colours #ff3caa #3cf0ff #ffd65a, outline #120830).
 Per scene: `ffmpeg -ss S -t D -i clip -i card.png -filter_complex "[0:v]scale=-2:1920,crop=1080:1920,setsar=1,fps=30[b];[b][1:v]overlay=0:0,format=yuv420p" -an -c:v libx264 -preset veryfast -crf 19 sN.mp4`
