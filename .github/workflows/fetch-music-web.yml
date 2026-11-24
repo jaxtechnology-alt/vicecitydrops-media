@@ -27,7 +27,7 @@ jobs:
               grep -oE 'https://assets\.mixkit\.co/[A-Za-z0-9_./-]+\.mp3' /tmp/page.html | sort -u | head -n "$n" > /tmp/mp3s.txt
               echo "Found $(wc -l < /tmp/mp3s.txt) mp3s on $url"
               while read -r mp3; do
-                id=$(echo "$mp3" | grep -oE '[0-9]+' | tail -1)
+                id=$(echo "$mp3" | grep -oE 'music/[0-9]+' | grep -oE '[0-9]+' | head -1)
                 slug="mixkit_${tag}_${id}"
                 if curl -sfL -m 60 -A 'Mozilla/5.0' -o "music/$slug.mp3" "$mp3" && [ $(stat -c%s "music/$slug.mp3") -gt 100000 ]; then
                   echo "{\"title\": \"Mixkit $tag #$id\", \"source\": \"$mp3\", \"page\": \"$url\", \"license\": \"Mixkit Stock Music Free License\", \"credit\": \"\"}" > "music/$slug.json"
