@@ -45,5 +45,6 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 - No politics, no knocking competitors by name, no fear-mongering.
 
 ## Lessons log (newest first)
+- 2026-11-25 (reel): git credential service returned 503 for ~10 min; raw.githubusercontent.com still worked for reads, so the Reel was built from raw-downloaded slides/music and pushed once git recovered. Retry git for several minutes before giving up.
 - 2026-11-25: Out file names follow the JSON date; renamed the 24 Nov post's early renders to out/2026-11-24-N.jpg so today's slides could use 2026-11-25-N. Raw GitHub URLs served the new files immediately (hashes matched). FB scheduled posts return a photo id, not a post id; log that.
 - 2026-11-24: Started. First post (25 Nov) = Telkom copper switch-off carousel.
