@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-25",
+ "pillar": "Myth vs fact",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "MYTH VS FACT",
+   "title": "\"VoIP sounds <em>robotic</em>.\" Does it?",
+   "sub": "Why some internet calls break up, and how to get crystal-clear ones.",
+   "photo": "woman-call-desk"
+  },
+  {
+   "type": "point",
+   "n": 1,
+   "title": "It's usually the <em>network</em>, not VoIP",
+   "body": "Choppy or robotic sound happens when bits of your voice arrive late or get lost on the way. The technology isn't the problem."
+  },
+  {
+   "type": "point",
+   "n": 2,
+   "title": "Busy Wi-Fi <em>squeezes</em> your calls",
+   "body": "Crowded Wi-Fi, or a big upload running in the background, competes with your voice. A desk phone on a cable avoids that."
+  },
+  {
+   "type": "point",
+   "n": 3,
+   "title": "Calls should get <em>priority</em>",
+   "body": "A properly set-up router puts voice first (it's called QoS), so a big download never cuts into a conversation."
+  },
+  {
+   "type": "point",
+   "n": 4,
+   "title": "Set up right, it's <em>crystal clear</em>",
+   "body": "We set up every line for voice quality first, so your clients hear you clearly. From R59 an extension, no contract."
+  },
+  {
+   "type": "cta",
+   "title": "Calls breaking up right now?",
+   "body": "Tell us what you hear and we'll help you find the cause. Free, no obligation."
+  }
+ ],
+ "caption": "\"VoIP sounds robotic.\" Does it? 🤖📞\n\nA lot of people expect internet calls to be choppy, delayed or robotic. When that happens, it's almost always the network, not VoIP itself: bits of your voice arrive late or get lost on the way.\n\nThe usual culprits:\n✅ Crowded Wi-Fi or a big upload running in the background\n✅ A router that doesn't give voice priority (QoS)\n✅ Phones on Wi-Fi when a cable would do\n\nSet up properly, VoIP is crystal clear. We set up every line for voice quality first, so your clients hear you, not the static. From R59 an extension, 33c a minute billed per second, no contract.\n\nSwipe through, then tell us 👇\nWhat's worse on a call: an echo or a delay?\n\n🌐 Need business internet too? Fibre & LTE for your office: send us your address and we'll check what reaches your building.\n\n📲 Free bill check: WhatsApp us or call 021 002 5637\n🌐 jaxtech.co.za",
+ "hashtags": [
+  "#BusinessVoIP",
+  "#SouthAfricanBusiness",
+  "#CapeTownBusiness",
+  "#CallQuality",
+  "#CloudPhone",
+  "#JaxTech"
+ ]
+}
