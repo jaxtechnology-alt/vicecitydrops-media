@@ -23,6 +23,10 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 ## Key message (Rudi, 24 Nov 2026)
 - HAMMER CLEAR VOICE QUALITY: most people expect VoIP to sound choppy/robotic/delayed. Our calls are crystal clear. Work this into hooks, captions and at least 2 posts a week (e.g. myth 'VoIP sounds bad', 'why some VoIP sounds bad and ours doesn't', 'can your clients hear you clearly?'). Never invent quotes; client reviews only once approved and listed in STRATEGY.md.
 
+## Internet add-on (Rudi 25 Nov)
+- Every caption (lunch post AND Reel) gets ONE line just above the CTA: "🌐 Need business internet too? Fibre & LTE for your office: send us your address and we'll check what reaches your building." Keep VoIP the main topic.
+- Every Reel ends with the 'Need business internet too?' end card (built into reel.py). No internet prices/speeds (none published).
+
 ## Content pillars (rotate, never the same pillar two days running)
 1. Landline → VoIP: Telkom copper switch-off, keeping your number (porting), what changes.
 2. Save money: reading your phone bill, per-second vs per-minute billing, hidden line-rental costs, no-contract.

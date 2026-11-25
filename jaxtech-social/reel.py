@@ -39,6 +39,27 @@ def frame(slide_path, out_path):
     bg.save(out_path, quality=95)
 
 
+def endcard(out_path):
+    bg = Image.new("RGB", (W, H), NAVY)
+    d = ImageDraw.Draw(bg)
+    logo = Image.open(os.path.join(HERE, "assets/logo.jpg")).convert("RGB").resize((160, 160))
+    bg.paste(logo, ((W - 160) // 2, 330))
+    def c(t, y, f, fill):
+        d.text(((W - d.textlength(t, font=f)) / 2, y), t, font=f, fill=fill)
+    c("Need business", 600, font(84), "white")
+    c("internet too?", 700, font(84), BLUE)
+    c("Fibre & LTE for your office.", 860, font(46, False), "white")
+    c("Send us your address and we'll", 940, font(40, False), (201, 212, 232))
+    c("check what reaches your building.", 995, font(40, False), (201, 212, 232))
+    c("Business phones and internet,", 1150, font(46), "white")
+    c("sorted by one team.", 1210, font(46), "white")
+    msg = "021 002 5637  ·  jaxtech.co.za"
+    tw = d.textlength(msg, font=font(48))
+    d.rounded_rectangle([(W - tw) / 2 - 44, 1400, (W + tw) / 2 + 44, 1508], radius=54, fill=BLUE)
+    d.text(((W - tw) / 2, 1421), msg, font=font(48), fill=NAVY)
+    bg.save(out_path, quality=95)
+
+
 def main():
     date = sys.argv[1]
     slides = sorted(glob.glob(os.path.join(HERE, f"out/{date}-[0-9]*.jpg")),
@@ -47,10 +68,14 @@ def main():
         sys.exit("need at least 2 slides")
     track = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, "music", random.choice(TRACKS) + ".mp3")
     tmp = tempfile.mkdtemp()
-    durs = [3.2] + [2.8] * (len(slides) - 2) + [3.6]
+    durs = [3.2] + [2.8] * (len(slides) - 2) + [3.2] + [2.8]  # last = internet end card
+    frames = []
+    for i, sp in enumerate(slides):
+        fp = os.path.join(tmp, f"f{i}.jpg"); frame(sp, fp); frames.append(fp)
+    ep = os.path.join(tmp, "end.jpg"); endcard(ep); frames.append(ep)
+    slides = frames
     inputs, fparts = [], []
-    for i, (sp, du) in enumerate(zip(slides, durs)):
-        fp = os.path.join(tmp, f"f{i}.jpg"); frame(sp, fp)
+    for i, (fp, du) in enumerate(zip(frames, durs)):
         inputs += ["-loop", "1", "-t", str(du + 0.4), "-i", fp]
         # gentle push-in on each slide
         fparts.append(f"[{i}:v]scale=1188:2112,zoompan=z='min(zoom+0.0009,1.06)':d={int((du+0.4)*30)}:"
