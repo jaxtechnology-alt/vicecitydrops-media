@@ -10,6 +10,10 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 - Best times (SAST): Facebook weekdays 12:00–20:00 (Sprout Social 2026); Instagram SA around lunchtime 11:00–14:00 and 19:00–21:00. We post at 12:30 every day.
 - Competitors: Euphoria Telecom (Cape Town, 6,000+ business customers) leans on buyer's guides, "no long-term contract", local support, copper switch-off and load-shedding readiness, plus Takealot-voucher referrals. Switch Telecom runs flat-rate calling and like-and-share giveaways. Telviva targets Microsoft Teams calling. Gaps we fill: plain-language tips, transparent prices (R59 extension, 33c/min, per-second billing, no contract), softphone on your cellphone, free bill check.
 
+## Daily schedule (Rudi 25 Nov: "busy every day")
+- 12:30 carousel post (FB photo + IG carousel) — task 11:47.
+- 18:30 Reel of the same day's slides (reel.py, 9:16, Mixkit music) on FB Reels + IG Reels — task 18:13. Reel caption: short new hook + clear-voice line + CTA, not a copy of the lunch caption.
+
 ## Format
 - 4:5 carousel, 5–7 slides, rendered with render.py (cover with hook → 3–5 points → CTA). Facebook gets the cover image as a photo post with the same caption.
 - Hook in the first line of the caption AND on the cover (problem, surprising number, myth, or "are you making this mistake?").
