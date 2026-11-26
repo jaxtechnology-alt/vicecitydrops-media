@@ -1,42 +1,44 @@
-# Ideas — Wed 25 Nov 2026 (launch +6; run ~05:40 SAST)
-vidIQ: 12 credits (<20, resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Strategy: PEOPLE + JOKE over facts, SA twist, ~20 s, FOLLOW end card, readable cards, short captions.
-Yesterday USED: update/lost save, SA week-1 expectation vs reality, Lucia texting POV (+ 20 s chaos, LGBTQ cast, Ma lets you play) — don't repeat.
+# Ideas — Thu 26 Nov 2026 (launch +7; run ~05:40 SAST)
+vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Strategy: PEOPLE + JOKE over facts, SA twist, ~20 s, FOLLOW end card, readable cards, short captions.
+25 Nov: no GTA Short in videos/ or git log, so 25 Nov ideas (Cape Town quiz, GTA-brain POV, Black Friday) are still open. Already USED 24 Nov: update/lost save, SA week-1 expectation vs reality, Lucia texting, 20 s chaos, LGBTQ cast, Ma lets you play.
 
 ## News today
-- VERIFIED (Sony): "More than 39 million unique players jumped into GTA VI on PS5 since launch… the biggest launch in PlayStation history" (PlayStation X + PS Blog, 23 Nov). Also 683M hours played, avg 17.4 h per PS5 owner, first game on 70% of newly connected PS5s on the biggest day. Players, not copies. [Push Square, 24 Nov](https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players) · [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/)
-- VERIFIED (Rockstar): patch notes for the 23 Nov update ARE now on Rockstar Support: fixes crashes, stuck weather, autosaves, missing story/mission phone calls, Wanted Levels that wouldn't clear, gym deadlift bar, partners not handing bags to fences. No frame-rate change; no next patch announced (a "25 Nov patch" claim is unbacked). [SixShore, 24 Nov](https://sixshore.com/news/gta6-update-01-002-002-patch-notes/)
-- VERIFIED (trend): "Real or GTA 6?" — real photos/clips mistaken for GTA 6 screenshots on TikTok/X ("GTA 6 brain"; Love Island's Jack Donoghue on a speedboat called "Jason"). [Everything Edinburgh, 24 Nov](https://everythingedinburgh.com/games/news/gta-6-graphics-real-photos-mistaken-screenshots/)
-- SA price (third-party tracker of PS Store/Xbox Store ZA, checked 19 Nov): Standard R1,499, Ultimate R1,899, unchanged since Sept. SA Black Friday = Fri 27 Nov. [ViceManual](https://vicemanual.com/gta-6-price/south-africa)
-- NOT VERIFIED: 60 fps patch, PC/Online dates, "GTA Flu ~$1B" cost, 25 Nov patch. Console still "targeting 30 fps" (Rockstar, via [Kotaku, 10 Nov](https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517)).
+- VERIFIED (Digital Foundry via Kotaku, 25 Nov): GTA 6 runs better on Xbox Series X than base PS5 — PS5 has "substantially more frequent frame-rate drops"; Series X also gets 120Hz VRR. PS5 Pro still best; all capped at 30 fps; Series S dips into the teens. Third-party analysis, not Rockstar. [Kotaku](https://kotaku.com/grand-theft-auto-vi-gta-6-framerates-xbox-series-x-ps5-rockstar-2001000296) · [Pure Xbox](https://www.purexbox.com/news/2026/11/three-big-takeaways-from-digital-foundrys-gta-6-analysis-for-xbox-series-xs)
+- VERIFIED (debunk): the viral "Rockstar apologised, performance patch 25 Nov" post was FAKE — Rockstar announced no 25 Nov update; latest is still 23 Nov (01.002.002), no stutter fix or 60 fps listed. [PC Games Hardware, 25 Nov](https://www.pcgameshardware.de/GTA-6-Spiel-55239/News/GTA-6-Is-a-new-update-to-fix-stuttering-coming-today-1561060/) · [Joking Joystick, 25 Nov](https://jokingjoystick.com/news/gta-vi/did-rockstar-promise-a-gta-6-performance-patch-on-november-25-what-the-official-update-record-shows/)
+- VERIFIED (SA): SA Black Friday is tomorrow (Fri 27 Nov). IOL: PlayStation Store cuts of 50-75% on hundreds of titles (deepest for PS Plus); console deals at Nexus Hub, Koodoo, BT Games trade-ins — no GTA 6 discount announced. SA price R1,499 / R1,899 Ultimate (TechCentral/Reuters). [IOL](https://iol.co.za/2026-11-10-south-africa-black-friday-2026-gaming-deals-best-console-pc-and-second-hand-specials/) · [TechCentral](https://techcentral.co.za/gta-6-retail-price-locked-in/283006/)
+- REPORTED (players, GamesRadar 25 Nov): "revenge NPCs" who chase you after you attack them are going viral (streamer clips). Violence-based — idea only, no footage. [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/)
+- NOT VERIFIED: NPC "lookalikes" of celebs (Tokyo Toni, Shade Room 25 Nov — unconfirmed), 60 fps patch, PC/Online dates.
 
 ## Top 5 Short ideas
-1. PICK 12:00 — "39 MILLION people. ONE week. 🤯" (news/facts + people, SA)
-   Beats (~20 s): 0-2s hook over crowd; 2-5s "Sony: 39M+ players on PS5 alone"; 5-9s "that's ~2 in 3 South Africans 🇿🇦" (SA ≈ 63M) over Cape Town street crowd; 9-13s "average player: 17.4 hours already" over couch gamer; 13-17s "biggest launch in PlayStation history" + T2 140.1-141.8 jet ski, T1 65.7-66.6 wheelies; 17-20s FOLLOW card.
-   Footage: Pixabay "stadium crowd", "cape town street people", "man gaming couch night"; trailer windows above. Say "Sony says".
-   Title: 39 MILLION played GTA 6 in one week 🤯 #shorts | Q: "Above or below 17.4 hours? 👇"
-   Why: official Sony record, search-hot 23-25 Nov (Push Square, GamesRadar, Beebom, RockstarINTEL); big number + SA scale + people = our proven mix.
-2. PICK 16:00 — "Cape Town or GTA 6? 🇿🇦 Guess in 3…" (comparison/quiz)
-   Beats: hook; 4 rounds x ~4 s: Pixabay Camps Bay beach aerial vs T1 11-18 beach aerial; Sea Point/V&A boats vs T1 23.4-24.7 speedboat; Chapman's Peak drive vs T1 35.8-37.3 bridge; Long St at night vs T1 30.6-32.5 night city — card "REAL or GTA?" then answer card; FOLLOW card.
-   Footage: Pixabay "camps bay aerial", "cape town waterfront boat", "chapmans peak drive", "cape town night city". Real-life = setup, trailer = payoff.
+1. PICK 12:00 — "Xbox players right now: 😏 PS5 players: 😐" (news/facts + people)
+   Beats (~20 s): 0-2s hook over two mates on a couch with controllers; 2-6s "Digital Foundry: GTA 6 runs SMOOTHER on Xbox Series X"; 6-10s "base PS5 drops frames more often" (PS mate sulks); 10-14s "PS5 Pro is still the king 👑" + T1 70.4-72.7 muscle car, T2 140.1-141.8 jet ski; 14-17s "all consoles: 30 fps cap"; 17-20s FOLLOW card + Q.
+   Footage: Pixabay "friends gaming couch", "two men video games", "man laughing controller"; trailer windows above. Say "Digital Foundry says".
+   Title: GTA 6 runs better on Xbox than PS5?! #shorts | Q: "Team PlayStation or Team Xbox? 👇"
+   Why: console-war = top comment driver; fresh (Kotaku 25 Nov); either/or Q; people + reaction, not a spec card.
+2. PICK 16:00 — "Cape Town or GTA 6? 🇿🇦 Guess in 3…" (comparison/quiz, SA) — carried over unused from 25 Nov.
+   Beats: hook; 4 rounds x ~4 s "REAL or GTA?" then answer: Camps Bay aerial vs T1 11-18 beach; waterfront boats vs T1 23.4-24.7 speedboat; Chapman's Peak vs T1 35.8-37.3 bridge; Cape Town night vs T1 30.6-32.5 night city; FOLLOW card.
+   Footage: Pixabay "camps bay aerial", "cape town waterfront boat", "chapmans peak drive", "cape town night city".
    Title: Cape Town or GTA 6? Bet you can't tell 🇿🇦 #shorts | Q: "How many did you get? 0-4 👇"
-   Why: "Real or GTA 6?" is this week's trend (Everything Edinburgh 24 Nov); Miami vs Cape Town was our best IG post (146 reach); score Q = easy comments.
-3. PICK 19:00 — "POV: 1 week of GTA 6 and Cape Town looks like Leonida 💀" (POV meme, SA)
-   Beats: hook; 2-6s at a robot, guy looks for the mini-map; 6-10s sees a taxi, waits for the "Steal" prompt (card: "press △… nothing"); 10-14s boat at the waterfront: "where's the mission marker?"; 14-17s girlfriend: "you need to sleep" + T2 96.2-98.4 Jason & Lucia; FOLLOW card.
-   Footage: Pixabay "traffic light city", "minibus taxi south africa", "harbour boats", "couple talking"; have couple_couch_tv_*. No stealing shown, only the joke prompt.
-   Title: 1 week of GTA 6 and Cape Town looks like Leonida #shorts | Q: "Has GTA 6 brain hit you yet? Yes / No"
-   Why: same "GTA 6 brain" trend as a relatable POV; people + joke won last week; avg 17.4 h stat makes it real.
-4. "Rockstar finally posted the patch notes — check THIS" (tip/news)
-   Beats: hook; "7 fixes" over Rockstar-style list card; "autosave fixed → make a manual save anyway"; "still 30 fps, no 60 fps patch announced"; trailer T1 70.4-72.7 muscle car.
-   Title: GTA 6 patch notes are out — check this #shorts | Q: "What should the next patch fix?"
-   Why: official follow-up to yesterday's update Short; "next patch" questions are rising. Risk: close to yesterday's topic, so only if a slot fails.
-5. "Black Friday: will GTA 6 drop below R1,499? 🇿🇦" (tip, SA) — Fri 27 Nov.
-   Beats: "PS Store ZA: R1,499 Standard / R1,899 Ultimate — no change since Sept"; "check the store on Friday before you buy at full price"; shoppers footage + skyline 24.6-25.6.
-   Title: GTA 6 on Black Friday in SA? Wait for Friday #shorts | Q: "Bought already or waiting? 👇"
-   Why: SA Black Friday huge search; no store links (Stop doing promo). Better posted Thu 26 Nov.
-If Rudi has played: his OWN clip (a "real or GTA" shot of his drive, a funny NPC) beats all of these.
+   Why: "Real or GTA 6?" trend (Everything Edinburgh 24 Nov); Miami vs Cape Town is our best IG post (146 reach); score Q = easy comments.
+3. PICK 19:00 — "POV: you believed the 'GTA 6 patch drops today' tweet 💀" (POV meme)
+   Beats: hook over guy on couch staring at screen; 2-6s "6pm: refreshing for the update"; 6-10s "11pm: still refreshing" (girlfriend walks past, shakes head); 10-14s "2am: Rockstar never announced it 😭" (fact: fake post, PCGH); 14-17s "plays anyway at 30 fps" + T2 96.2-98.4 Jason & Lucia; FOLLOW card.
+   Footage: have couple_couch_tv_*; Pixabay "man waiting phone night", "clock ticking", "loading bar", "tired man couch".
+   Title: POV: you believed the GTA 6 patch tweet 💀 #shorts | Q: "Fell for it? Yes / No 👇"
+   Why: the fake 25 Nov patch went viral on X (debunked by PCGH + Joking Joystick); relatable + partner joke = our winning mix.
+4. "Black Friday tomorrow: will GTA 6 get cheaper in SA? 🇿🇦" (tip, SA)
+   Beats: hook over shoppers; "R1,499 / R1,899 — no GTA 6 discount announced"; "PS Store says 50-75% off hundreds of games — check before you pay full price"; "trade in old games at BT Games?"; skyline 24.6-25.6; FOLLOW card. No links, not promo.
+   Footage: Pixabay "black friday crowd shopping", "man phone shopping app", "wallet empty".
+   Title: GTA 6 on Black Friday in SA? Watch first #shorts | Q: "Bought already or waiting for Friday? 👇"
+   Why: SA Black Friday = huge local search today; strictly a time-boxed backup if a slot fails (stop-doing: promo/text-only).
+5. "POV: you see your uncle in GTA 6 🇿🇦" (POV meme, SA)
+   Beats: hook; 2-6s "NPC walks past… wait"; 6-10s phone call "Uncle Sipho, are you in GTA??"; 10-14s family group chat explodes; 14-17s "Rockstar owes him a cheque" + T2 92.1-96 bar dancing; FOLLOW card.
+   Footage: Pixabay "older man smiling", "family whatsapp phone", "man shocked phone". Never name a real person.
+   Title: POV: your uncle is an NPC in GTA 6 💀 #shorts | Q: "Who in your family is an NPC? 👇"
+   Why: NPC-lookalike posts trending (Tokyo Toni reaction, Shade Room 25 Nov); tag-a-relative Q drives shares.
+If Rudi has played: his OWN clip (a "real or GTA" drive shot, a funny NPC) beats all of these.
 
 ## Trending formats spotted
-- "Real or GTA 6?" quiz/brain posts on TikTok + X (Everything Edinburgh, 24 Nov) — strongest new format this week.
-- Infegy week-1 data (18-24 Nov): 51M posts, ~13B video views; top themes = story (Lucia/Jason, Mandy Russell memes), streamers & Easter eggs (top post: NPC with a selfie stick), 30 fps backlash, 13-year nostalgia, radio. [Infegy, 24 Nov](https://www.infegy.com/insight-brief/top-five-social-trends-from-gta-6-week-one)
-- "Goodbye Los Santos" farewell edits (GTA V -> Jason & Lucia) on Djo "End of Beginning" / Alec Benjamin "Let Me Down Slowly" (Bubbleblabber, 16 Nov; no view counts). Copyrighted songs — use the idea with NCS, don't use those tracks.
-- No small-account outlier/view data this run (vidIQ 12 credits, below the 20 threshold).
+- Fake-news debunk: viral X post "patch 25 Nov" (dated 20 Nov) spread widely, now debunked (PCGH, Joking Joystick) — "fell for it?" POV works.
+- NPC lookalike reactions: @KaurVault X clip (24 Nov) -> Tokyo Toni reacts; fans "Rockstar owes her a check" (Shade Room, no counts). [Shade Room](https://theshaderoom.com/tokyo-toni-reacts-to-alleged-gta-6-lookalike-fans-tell-her-to-get-check-videos/)
+- "We got X before GTA 6" meme declared dead — BuzzFeed farewell list; "13 years waited" nostalgia still runs. [BuzzFeed](https://www.buzzfeed.com/mariamsharia/funniest-gta-6-memes-we-got-before)
+- No small-account outlier/view or trending-sound data (vidIQ 0 credits).
