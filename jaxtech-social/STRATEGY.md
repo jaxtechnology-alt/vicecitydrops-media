@@ -45,6 +45,7 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 - No politics, no knocking competitors by name, no fear-mongering.
 
 ## Lessons log (newest first)
+- 2026-11-26 (reel): Local `main` branch in the clone is an old, diverged history; work from a detached checkout of origin/main and push with `git push origin HEAD:main`. Either/or questions must spell out both options ("resell or refer?"), not "A or B" without labels.
 - 2026-11-26: Cover sub-line gets hidden behind the photo when the title wraps to 4 lines; keep cover titles to ~3 lines (about 35 characters) and check slide 1 first.
 - 2026-11-26 (analytics): FB Telkom copper-switch-off carousel (24 Nov) reached 20 vs 13 for the "VoIP sounds robotic" carousel and 2 for the same-topic Reel posted 6h later. Urgent, SA-news hooks ("your number is on borrowed time") beat myth-busting. Lead with a deadline/local-news angle where possible.
 - 2026-11-26 (analytics): Two posts on the same topic the same day split reach (Reel got 2 on FB, 1 on IG). One topic per day; if a Reel and carousel both go out, use different hooks. Zero engagement on every post so far: end captions with a one-tap question (A or B?) instead of open-ended ones.

@@ -6,3 +6,4 @@
 | 2026-11-25 | Myth vs fact | "VoIP sounds robotic." Does it? | scheduled 12:30 SAST, photo id 1139024908883768 | 18106494731567747 |
 | 2026-11-25 reel | VoIP robotic myth | Robot voice on your calls? Don't blame VoIP yet. | 114173681294938_1139378455515080 | 18192514279415313 |
 | 2026-11-26 | For IT companies | Clients' phones down? They call you. | scheduled 12:30 SAST, photo id 1140112165441709 | 18375494224244904 |
+| 2026-11-26 reel | IT company partner programme | IT company? Your clients already trust you with their phones. | 114173681294938_1140451132074479 | 18106882376652854 |
