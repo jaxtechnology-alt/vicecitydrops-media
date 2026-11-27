@@ -7,3 +7,4 @@
 | 2026-11-25 reel | VoIP robotic myth | Robot voice on your calls? Don't blame VoIP yet. | 114173681294938_1139378455515080 | 18192514279415313 |
 | 2026-11-26 | For IT companies | Clients' phones down? They call you. | scheduled 12:30 SAST, photo id 1140112165441709 | 18375494224244904 |
 | 2026-11-26 reel | IT company partner programme | IT company? Your clients already trust you with their phones. | 114173681294938_1140451132074479 | 18106882376652854 |
+| 2026-11-27 | Save money | Black Friday tip: the best deal might be your phone bill. | scheduled 12:30 SAST, photo id 1141193988666860 | 17993741382088459 |

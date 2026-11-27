@@ -45,6 +45,7 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 - No politics, no knocking competitors by name, no fear-mongering.
 
 ## Lessons log (newest first)
+- 2026-11-27: Tied the Save-money pillar to Black Friday (calendar hook). Don't claim all specials end at midnight; keep date-hook claims general unless sourced.
 - 2026-11-27 (analytics): 26 Nov IT-company partner posts reached only 6 (carousel) and 2 (Reel) on FB vs 21 for the 24 Nov Telkom copper carousel aimed at business owners. The page's audience is SME owners, not MSPs: keep owner-facing urgency hooks as the main daily post and treat reseller content as an occasional extra.
 - 2026-11-27 (analytics): On FB carousels beat Reels every time (21/19/6 vs 8/2); on IG Reels got more views than carousels (2 vs 0-1). Lead with the carousel on FB and the Reel on IG. Still 0 reactions/comments/shares on all 11 posts to date.
 - 2026-11-26 (reel): Local `main` branch in the clone is an old, diverged history; work from a detached checkout of origin/main and push with `git push origin HEAD:main`. Either/or questions must spell out both options ("resell or refer?"), not "A or B" without labels.
