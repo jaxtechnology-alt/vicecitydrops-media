@@ -45,6 +45,8 @@ Rudi's rule (24 Nov 2026): ONE post every day on the Jax Tech Facebook Page and 
 - No politics, no knocking competitors by name, no fear-mongering.
 
 ## Lessons log (newest first)
+- 2026-11-28 (analytics): Black Friday savings posts (27 Nov) reached 8 (carousel) and 3 (Reel) on FB vs 21 for the Telkom copper-deadline carousel (24 Nov). Savings/price hooks underperform deadline/local-news urgency: lead with a 'this affects your number/line' angle, keep pricing as the supporting point.
+- 2026-11-28 (analytics): IG carousel got 12 views from only 2 accounts (people swipe through slides), IG Reel reached 4. Carousels hold attention; Reels find new eyes. Keep the Reel first on IG for reach, carousel first on FB. Page reach is stuck at ~14-20/day with 0 reactions on all 15 posts: organic alone isn't getting past the existing 166 fans; ask Rudi to share each day's post to his WhatsApp Status/personal profile.
 - 2026-11-27 (reel): reel.py output is now ~23.2 s (not ~20 s), so the end card sits at ~20.4-23.2 s; check a frame at ~22 s for it, 19.5 s shows the last slide.
 - 2026-11-27: Tied the Save-money pillar to Black Friday (calendar hook). Don't claim all specials end at midnight; keep date-hook claims general unless sourced.
 - 2026-11-27 (analytics): 26 Nov IT-company partner posts reached only 6 (carousel) and 2 (Reel) on FB vs 21 for the 24 Nov Telkom copper carousel aimed at business owners. The page's audience is SME owners, not MSPs: keep owner-facing urgency hooks as the main daily post and treat reseller content as an occasional extra.
