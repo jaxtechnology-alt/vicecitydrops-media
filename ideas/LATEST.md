@@ -1,35 +1,36 @@
-# Ideas — Fri 27 Nov 2026 (launch +8, SA Black Friday; run ~05:40 SAST)
-vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool: nothing scheduled 25-28 Nov (published posts not visible). No GTA Shorts for 25-26 Nov in videos/ or git log, so 26 Nov ideas (Xbox vs PS5, fake-patch POV, Cape Town quiz, uncle NPC) are still unused. USED 24 Nov (don't repeat): update/lost save, SA week-1 expectation vs reality, Lucia texting, 20 s chaos, LGBTQ cast, Ma lets you play.
+# Ideas — Sat 28 Nov 2026 (launch +9; run ~05:40 SAST)
+vidIQ: 0 credits (resets 14 Dec) -> WebSearch only. Metricool/Windsor not checked. Strategy: PEOPLE + JOKE over facts, SA twist, ~20 s, FOLLOW end card, readable cards, short captions.
+WARNING: no new GTA Shorts in videos/ or git log since 24 Nov (25-27 Nov commits are Jax Tech posts only), so 25-27 Nov ideas are still unused. USED 24 Nov (don't repeat): update/lost save, SA week-1 expectation vs reality, Lucia texting, 20 s chaos, LGBTQ cast, Ma lets you play.
 
 ## News today
-- VERIFIED (VGC interview): Rockstar North's Rob Nelson on why there's no darts in GTA 6: "we don't have unlimited time" — better to leave it out than ship it not good enough. (PC Games: tennis + cinema/theatre also cut; mini-golf stayed.) [VGC](https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/)
-- REPORTED (Sony via PlanetGTA6, 24 Nov; PS Blog 23 Nov not opened by us): 39M+ unique PS5 players and 683M hours in the first 4 days — "biggest launch in PlayStation history". Say "Sony says". [PlanetGTA6](https://www.planetgta6.com/en/news/gta-6-sony-confirms-biggest-playstation-launch-ever/)
-- VERIFIED (GamesRadar live blog, 26 Nov): Black Friday — no US discount on GTA 6 ($79.99 everywhere); UK Amazon £64.95. No SA GTA 6 discount found; SA price still R1,499 / R1,899 Ultimate. [GamesRadar](https://www.gamesradar.com/live/news/black-friday-gta-6-deals-live/) · [TechCentral](https://techcentral.co.za/gta-6-retail-price-locked-in/283006/)
-- REPORTED (players): Paul Walker-style green Mitsubishi Eclipse found in a Vespucci garage (Rockstar has NOT confirmed the Fast & Furious link) [Tribune, 23 Nov](https://tribune.com.pk/story/2641836/gta-6-players-discover-fast-and-furious-easter-egg-with-paul-walkers-mitsubishi-eclipse); PS5 weather bug still reported after 01.002.002 [PlanetGTA6, 26 Nov](https://www.planetgta6.com/en/news/). Latest patch still 01.002.002 (23 Nov).
-- NOT VERIFIED: PC/Online dates, 60 fps patch, celebrity NPC lookalikes.
+- VERIFIED (Engadget / BGR / Insider Gaming, ~26 Nov): GTA 6 has NO mission replay — Rockstar says replays clash with the story's consequences; gold medals gone. Workaround = manual saves before big missions. [Engadget](https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6/) · [BGR](https://www.bgr.com/2321451/gta-6-removed-popular-feature-replay-missions/) · [Insider Gaming](https://insider-gaming.com/gta-6-doesnt-allow-you-to-replay-story-missions/)
+- REPORTED (Streams Charts data via VGTimes, 26 Nov): ~420M hours of GTA 6 watched on Twitch/YouTube/Kick in week 1. Third-party stat — say "Streams Charts says". [VGTimes](https://vgtimes.com/gaming-news/175865-gta-vi-hits-420-million-hours-watched-in-its-first-week-of-streaming.html)
+- REPORTED (Rockstar comments relayed by VGTimes, 27 Nov): screen-edge vignette is intentional on consoles; ex-Gran Turismo competitor Lewis Bentley in the credits for car physics. Not yet seen on a major outlet. [VGTimes vignette](https://vgtimes.com/gaming-news/175929-gta-6s-vignette-cant-be-turned-off-on-consoles.html) · [VGTimes physics](https://vgtimes.com/gaming-news/175907-gran-turismo-world-series-competitor-spent-3.5-years-tuning-gta-6s-car-physics.html)
+- SA: no new SA GTA 6 news 26-28 Nov; price still R1,499 / R1,899 Ultimate (TechCentral). [TechCentral](https://techcentral.co.za/gta-6-retail-price-locked-in/283006/)
+- NOT VERIFIED / DO NOT USE: leaked "PC port" builds (~25 fps), jailbreak 60 fps mod on PS5 Pro, Xbox One cloud play, PC/Online dates.
 
 ## Top 5 Short ideas
-1. PICK 12:00 — "Rockstar REMOVED darts from GTA 6 🎯😭" (news/facts + people, SA)
-   Beats (~20 s): 0-2s hook over SA pub/braai mates playing darts; 2-6s "Rockstar: 'we don't have unlimited time'"; 6-10s "tennis + cinema cut too"; 10-14s "mini-golf survived ⛳" + T2 92.1-96 bar; 14-17s "SA uncles: protest at the braai" (uncle shakes head); 17-20s FOLLOW card + Q.
-   Footage: Pixabay "darts pub friends", "throwing darts", "old man disappointed", "mini golf"; trailer T2 92.1-96. Say "Rockstar told VGC".
-   Title: Rockstar cut darts from GTA 6?! 🎯 #shorts | Q: "Darts or tennis — which should they add? 👇"
-   Why: fresh official quote (VGC), "what's missing" posts drive debate; people + joke per STRATEGY.
-2. PICK 16:00 — "POV: Black Friday and your money already went to GTA 6 🇿🇦💸" (POV meme, SA)
-   Beats: hook over guy staring at empty wallet; 2-6s "Everyone: 'TV 50% off!'"; 6-10s "Me, R1,499 down on 19 Nov 💀"; 10-14s "GTA 6 Black Friday discount in SA: nothing found 😭"; 14-17s happy anyway + T1 70.4-72.7 muscle car, T2 140.1-141.8 jet ski; FOLLOW card.
-   Footage: Pixabay "black friday crowd shopping", "empty wallet", "man laughing couch controller".
-   Title: Black Friday in SA when you already bought GTA 6 💀 #shorts | Q: "Bought on day one or waited? 👇"
-   Why: SA Black Friday = top local topic TODAY; same-day post (STRATEGY); relatable money joke, not a price card.
-3. PICK 19:00 — "Cape Town or GTA 6? 🇿🇦 Guess in 3…" (comparison/quiz, SA) — unused since 25 Nov.
-   Beats: hook; 4 rounds x ~4 s "REAL or GTA?": Camps Bay aerial vs T1 11-18 beach; waterfront boats vs T1 23.4-24.7; Chapman's Peak vs T1 35.8-37.3; CT night vs T1 30.6-32.5; FOLLOW card.
+1. PICK 12:00 — "You CAN'T replay missions in GTA 6 😱" (news/tip + people)
+   Beats (~20 s): 0-2s hook over gamer gasping at TV; 2-6s "Rockstar: no mission replay, no gold medals"; 6-10s "your choices stick — story has consequences"; 10-14s "TIP: manual save before every big mission 💾" + T1 70.4-72.7 muscle car, T2 140.1-141.8 jet ski; 14-17s "13 years of GTA 5 habits… gone 💀"; 17-20s FOLLOW card + Q.
+   Footage: Pixabay "man shocked video game", "gamer controller couch night"; trailer windows above.
+   Title: You can't replay missions in GTA 6?! 😱 #shorts | Q: "Good change or bad change? 👇"
+   Why: covered by Engadget, BGR, Insider Gaming, Notebookcheck, Dexerto in 48 h; useful tip + either/or debate Q.
+2. PICK 16:00 — "POV: your dad thinks GTA 6 is a Cape Town documentary 🇿🇦" (POV meme, SA)
+   Beats: hook over dad in doorway; 2-6s "Dad: 'is that Camps Bay?'" + T1 11-18 beach aerial; 6-10s "Dad: 'they finally fixed the roads'" + T1 35.8-37.3 bridge; 10-14s "Me: it's a GAME, Pa"; 14-17s dad pulls up a chair + couch footage; FOLLOW card.
+   Footage: Pixabay "older man watching tv", "father son couch", "man surprised"; have couple_couch_tv_*.
+   Title: POV: your dad thinks GTA 6 is real life 🇿🇦 #shorts | Q: "Would your dad fall for it? Yes / No 👇"
+   Why: "real or GTA 6" photo-mode trend still running (VGTimes 26 Nov, Everything Edinburgh 24 Nov); family memes = our winners.
+3. PICK 19:00 — "Cape Town or GTA 6? 🇿🇦 Guess in 3…" (comparison/quiz, SA) — unused since 25 Nov, make it now.
+   Beats: hook; 4 rounds x ~4 s "REAL or GTA?": Camps Bay aerial vs T1 11-18; waterfront boats vs T1 23.4-24.7; Chapman's Peak vs T1 35.8-37.3; CT night vs T1 30.6-32.5; FOLLOW card.
    Footage: Pixabay "camps bay aerial", "cape town waterfront boat", "chapmans peak drive", "cape town night city".
    Title: Cape Town or GTA 6? Bet you can't tell 🇿🇦 #shorts | Q: "How many did you get? 0-4 👇"
-   Why: "Real or GTA 6?" trend; Miami vs Cape Town is our best IG post (146 reach); score Q = easy comments.
-4. "39 MILLION people played GTA 6 on PS5… and me 🫠" (news/people) — Beats: hook; "Sony: 39M+ players, 683M hours in 4 days"; "that's ~17 hrs each"; "my boss: why you tired?"; T2 96.2-98.4; FOLLOW. Pixabay "tired man office", "crowd stadium". Title: 39 million people played GTA 6 in 4 days?! #shorts | Q: "How many hours have YOU played? 👇". Why: official Sony record, hours Q invites answers.
-5. "Xbox players right now 😏 PS5 players 😐" (comparison) — Digital Foundry: Series X steadier than base PS5, PS5 Pro best, all 30 fps (Kotaku 25 Nov). Beats/footage as 26 Nov #1. Title: GTA 6 runs better on Xbox than PS5?! #shorts | Q: "Team PS or Team Xbox? 👇". Backup if a slot fails.
-If Rudi has played: his OWN clip (find the green Eclipse garage, a funny NPC, a "real or GTA" drive) beats all of these.
+   Why: same trend; Miami vs Cape Town is our best IG post (146 reach); score Q = easy comments. (If #2 and #3 overlap too much, swap #2 for #5.)
+4. "420 MILLION hours of people WATCHING GTA 6 🤯" (news/people) — Beats: hook over crowd; "Streams Charts: 420M hours watched in week 1"; "that's ~48,000 years"; "me: watched 6 hours of streams instead of playing"; T2 96.2-98.4; FOLLOW. Pixabay "man watching phone bed", "crowd". Title: People watched 48,000 YEARS of GTA 6 🤯 #shorts | Q: "Watch streams or just play? 👇". Why: big number + relatable joke; say "Streams Charts says".
+5. "Rockstar cut darts from GTA 6 🎯 SA uncles protest" (news/meme, SA) — unused from 27 Nov: Rob Nelson to VGC "we don't have unlimited time"; tennis/cinema cut, mini-golf stayed. Pixabay "darts pub friends", "old man disappointed"; T2 92.1-96. Title: Rockstar cut darts from GTA 6?! 🎯 #shorts | Q: "Darts or tennis — which should they add? 👇". [VGC](https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/)
+If Rudi has played: his OWN clip (a "real or GTA" photo-mode shot, a mission he wishes he could replay) beats all of these.
 
 ## Trending formats spotted
-- "What's NOT in GTA 6" / cut-content explainers: VGC darts quote relayed by GGRecon, tbreak, Notebookcheck, RockstarINTEL within a day. [GGRecon](https://www.ggrecon.com/articles/gta-6-no-darts-rockstar-explains/)
-- Easter-egg hunts: F&F Eclipse (Instagram clip -> Tribune), literal egg cutscene (X clip -> IBTimes), TMNT/Looney Tunes finds — "Did you know?" format. [IBTimes](https://www.ibtimes.co.uk/gta-6-player-discovers-literal-easter-egg-leonida-1833342)
-- Black Friday "is GTA 6 cheaper?" posts everywhere (GamesRadar/TechRadar live blogs) — the meme twist is ours.
+- "Real or GTA 6?" photo-mode posts: screenshots mistaken for real photos (VGTimes 26 Nov; no view counts). Our quiz/POV ride this.
+- "What's missing in GTA 6" explainers (mission replay, darts, chainsaw-as-weapon) spread across 5+ outlets within a day — debate Qs drive comments.
+- AI-generated "GTA 6" clips pulling millions of views (games.gg) — don't copy; AI fakes risk the reused/misleading-content strikes. [games.gg](https://games.gg/news/ai-gta6-slop-millions-views-social/)
 - No small-account view counts or trending-sound data (vidIQ 0 credits; WebSearch gives no Shorts/TikTok metrics).
